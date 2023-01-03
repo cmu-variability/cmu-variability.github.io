@@ -1,0 +1,129 @@
+prof-begel:
+    display_name: "Andrew Begel"
+    webpage: "https://andrewbegel.com"
+    github: abegel
+    image: /img/people/abegel.png
+    role: faculty
+    bio: Professor
+
+grad-gabrielle-ohlson:
+    display_name: "Gabrielle Ohlson"
+    webpage: "https://edgygrandma.com/"
+    role: grad-phd
+
+grad-jiwoong-jang:
+    display_name: "JiWoong (Joon) Jang"
+    webpage: "https://joonbugs.github.io"
+    role: grad-phd
+
+grad-wenxin-ju:
+    display_name: "Wenxin (Wendy) Ju"
+    role: grad-masters
+
+
+grad-rosanna-vitiello:
+    display_name: "Rosanna Vitiello"
+    role: grad-masters
+
+grad-alana-rogers:
+    display_name: "Alana Rogers"
+    role: grad-masters
+
+grad-manvi-gupta:
+    display_name: "Manvi Gupta"
+    role: grad-masters
+
+grad-alicia-ng:
+    display_name: "Alicia Ng"
+    role: grad-masters
+
+grad-eunbea-ji:
+    display_name: "Eunbea (Rosie) Ji"
+    role: grad-masters
+
+
+
+ugrad-justin-zou:
+    display_name: "Justin Zou"
+    role: ugrad
+
+ugrad-meixuan-li:
+    display_name: "Mexiuan (Lucy) Li"
+    role: ugrad
+
+ugrad-raymond-welgosh:
+    display_name: "Raymond Welgosh"
+    role: ugrad
+
+ugrad-emily-amspoker:
+    display_name: "Emily Amspoker"
+    role: ugrad
+
+ugrad-justin-hsieh:
+    display_name: "Justin Hsieh"
+    role: ugrad
+
+ugrad-an-tang:
+    display_name: "An Tang"
+    role: ugrad
+
+ugrad-ireoluwa-alarape:
+    display_name: "Ireoluwa Alarape"
+    role: ugrad
+
+ugrad-zhiheng-ye:
+    display_name: "Zhiheng (Andy) Ye"
+    role: ugrad
+
+ugrad-dhruva-reddy:
+    display_name: "Dhruva Reddy"
+    role: ugrad
+
+ugrad-mahith-edula:
+    display_name: "Mahith Edula"
+    role: ugrad
+
+ugrad-adam-bournes:
+    display_name: "Adam Bournes"
+    role: ugrad
+
+ugrad-sidney-ozcan:
+    display_name: "Sidney Ozcan"
+    role: ugrad
+
+ugrad-aditya-ganesh:
+    display_name: "Aditya (Adit) Ganesh"
+    role: ugrad
+
+ugrad-zimeng-wang:
+    display_name: "Zimeng (Ayla) Wang"
+    role: ugrad
+
+ugrad-gabriel-aguirre:
+    display_name: "Gabriel Aguirre"
+    role: ugrad
+
+ugrad-kajal-mehta:
+    display_name: "Kajal Mehta"
+    role: ugrad
+
+ugrad-yiqun-zhang:
+    display_name: "Yiqun (Melody) Zhang"
+    role: ugrad
+
+ugrad-erica-fu:
+    display_name: "Erica Fu"
+    role: ugrad
+
+ugrad-baramee-bhakdibhumi:
+    display_name: "Baramee (Bing) Bhakdibhumi"
+    role: ugrad
+
+ugrad-veronica-pimenova:
+    display_name: "Veronica Pimenova"
+    role: ugrad
+
+
+ugrad-meghana-tera:
+    display_name: "Meghana Tera"
+    role: ugrad
