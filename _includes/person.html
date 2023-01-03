@@ -36,6 +36,9 @@ there by default by Bootstrap columns.
             <h6 class="person-name"> {{ name }} </h6>
             {% if person.bio %}
                 <div class="bio">{{person.bio}}</div>
+		{% endif %}
+	    {% if person.org %}
+                <div class="org">{{person.org}}</div>
             {% endif %}
         </div>
     </div>
@@ -44,6 +47,9 @@ there by default by Bootstrap columns.
         {{ name }}
         {% if person.bio %}
             <span class="bio">{{person.bio}}</span>
+        {% endif %}
+        {% if person.org %}
+            <span class="org">{{person.org}}</span>
         {% endif %}
     </div>
 {% endif %}

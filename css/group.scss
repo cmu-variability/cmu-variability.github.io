@@ -3,6 +3,7 @@
 
 $gray: #999;
 $light-gray: #EEE;
+$dark-gray: #444;
 
 /* Space out content a bit */
 body {
@@ -47,6 +48,8 @@ a > .fa {
     width: 100%;
     margin: auto;
     display: block;
+    padding-top: 0.5em;
+    padding-bottom: 1.5em;
 }
 
 .variability-banner {
@@ -141,6 +144,10 @@ section {
 
     .bio {
         color: $gray;
+    }
+    
+    .org {
+	color: $dark-gray;
     }
 
     .person-name {

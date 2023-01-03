@@ -127,3 +127,20 @@ ugrad-veronica-pimenova:
 ugrad-meghana-tera:
     display_name: "Meghana Tera"
     role: ugrad
+
+collaborator-hala-annabi:
+   display_name: "Hala Annabi"
+   role: collab
+   bio: Professor
+   org: University of Washington at Seattle
+   webpage: https://ischool.uw.edu/people/faculty/profile/hpannabi
+   image: /img/people/annabi.jpg
+
+collaborator-kathy-dow-burger:
+   display_name: "Kathryn Dow-Burger"
+   role: collab
+   bio: Clinical Associate Professor
+   org: University of Maryland at College Park
+   webpage: "https://hesp.umd.edu/facultyprofile/dow-burger/kathy"
+   image: /img/people/dow-burger.jpg
+   
