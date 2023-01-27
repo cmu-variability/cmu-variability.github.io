@@ -28,11 +28,15 @@ grad-rosanna-vitiello:
 
 grad-alana-rogers:
     display_name: "Alana Rogers"
+    role: grad-alumni
+
+grad-manvi-gupta:
+    display_name: "Manvi Gupta"
     role: grad-masters
 
-#grad-manvi-gupta:
-#    display_name: "Manvi Gupta"
-#    role: grad-masters
+grad-mingzhe-li:
+    display_name: "Mingzhe (Vera) Li"
+    role: grad-masters
 
 #grad-alicia-ng:
 #    display_name: "Alicia Ng"
@@ -41,6 +45,7 @@ grad-alana-rogers:
 #grad-eunbea-ji:
 #    display_name: "Eunbea (Rosie) Ji"
 #    role: grad-masters
+
 
 
 
@@ -82,7 +87,7 @@ ugrad-dhruva-reddy:
 
 ugrad-mahith-edula:
     display_name: "Mahith Edula"
-    role: ugrad
+    role: ugrad-alumni
 
 ugrad-adam-bournes:
     display_name: "Adam Bournes"
@@ -112,6 +117,10 @@ ugrad-yiqun-zhang:
     display_name: "Yiqun (Melody) Zhang"
     role: ugrad
 
+ugrad-saanika-chauk:
+    display_name: Saanika Chauk
+    role: ugrad
+
 ugrad-erica-fu:
     display_name: "Erica Fu"
     role: ugrad
@@ -124,9 +133,16 @@ ugrad-veronica-pimenova:
     display_name: "Veronica Pimenova"
     role: ugrad
 
+ugrad-janise-kim: 
+    display_name: "Janise Kim"
+    role: ugrad
 
 ugrad-meghana-tera:
     display_name: "Meghana Tera"
+    role: ugrad
+
+ugrad-jospeh-lee:
+    display_name: Joseph Lee
     role: ugrad
 
 collaborator-hala-annabi:

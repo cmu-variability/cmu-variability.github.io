@@ -8,6 +8,8 @@ description: |
 
 people:
  - ugrad-meghana-tera
+ - grad-manvi-gupta
+ - ugrad-janise-kim
   
 layout: project
 no-link: true

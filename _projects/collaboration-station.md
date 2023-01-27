@@ -13,8 +13,10 @@ people:
   - ugrad-emily-amspoker
   - ugrad-ireoluwa-alarape
   - ugrad-dhruva-reddy
+  - ugrad-zhiheng-ye
   - grad-wenxin-ju
-  - grad-alana-rogers
+  - grad-mingzhe-li
+  
   
 layout: project
 last-updated: 2023-01-02
