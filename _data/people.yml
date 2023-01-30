@@ -65,6 +65,7 @@ ugrad-raymond-welgosh:
 ugrad-emily-amspoker:
     display_name: "Emily Amspoker"
     role: ugrad
+    image: /img/people/emily-amspoker.jpg
 
 ugrad-justin-hsieh:
     display_name: "Justin Hsieh"
@@ -85,6 +86,7 @@ ugrad-zhiheng-ye:
 ugrad-dhruva-reddy:
     display_name: "Dhruva Reddy"
     role: ugrad
+    image: /img/people/dhruva-reddy.jpg
 
 ugrad-mahith-edula:
     display_name: "Mahith Edula"
