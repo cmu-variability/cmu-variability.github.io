@@ -56,7 +56,7 @@ ugrad-justin-zou:
 
 ugrad-meixuan-li:
     display_name: "Mexiuan (Lucy) Li"
-    role: ugrad
+    role: ugrad-alumni
 
 ugrad-raymond-welgosh:
     display_name: "Raymond Welgosh"
@@ -94,7 +94,7 @@ ugrad-mahith-edula:
 
 ugrad-adam-bournes:
     display_name: "Adam Bournes"
-    role: ugrad
+    role: ugrad-alumni
 
 ugrad-sidney-ozcan:
     display_name: "Sidney Ozcan"
@@ -148,6 +148,10 @@ ugrad-meghana-tera:
 
 ugrad-jospeh-lee:
     display_name: Joseph Lee
+    role: ugrad
+
+ugrad-wenjun-zhou:
+    display_name: Wenjun (Connie) Zhou
     role: ugrad
 
 collaborator-hala-annabi:

@@ -8,7 +8,6 @@ description: |
    
 people: 
 
-  - ugrad-adam-bournes
   - ugrad-sidney-ozcan
   - ugrad-aditya-ganesh
   - ugrad-zimeng-wang
@@ -16,7 +15,6 @@ people:
   - ugrad-gabriel-aguirre
   - ugrad-saanika-chauk
   - grad-jiwoong-jang
-  - ugrad-gabriel-aguirre
   - ugrad-jospeh-lee
   
 layout: project

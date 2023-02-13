@@ -8,6 +8,7 @@ description: |
 people:
 
   - ugrad-kajal-mehta
+  - ugrad-wenjun-zhou
   
 layout: project
 no-link: true

@@ -5,7 +5,6 @@ description: |
   A web-based, block-based IDE that supports synchronous co-editing and collaboration. 
   
 people: 
-  - ugrad-meixuan-li
   - ugrad-justin-zou
   - ugrad-an-tang
   - ugrad-justin-hsieh
