@@ -9,13 +9,12 @@ description: |
 people: 
 
   - ugrad-sidney-ozcan
-  - ugrad-aditya-ganesh
   - ugrad-zimeng-wang
-  - grad-rosanna-vitiello
   - ugrad-gabriel-aguirre
   - ugrad-saanika-chauk
   - grad-jiwoong-jang
-  - ugrad-jospeh-lee
+  - ugrad-joseph-lee
+  - ugrad-zhiheng-ye
   
 layout: project
 no-link: true

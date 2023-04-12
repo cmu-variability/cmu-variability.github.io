@@ -7,6 +7,9 @@ description: |
   
 people:
 
+  - collaborator-kathy-dow-burger
+  - collaborator-jennifer-wessel
+  - collaborator-elizabeth-redcay
   - ugrad-kajal-mehta
   - ugrad-wenjun-zhou
   

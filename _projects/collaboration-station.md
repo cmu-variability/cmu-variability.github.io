@@ -5,14 +5,14 @@ description: |
   A web-based, block-based IDE that supports synchronous co-editing and collaboration. 
   
 people: 
+  - collaborator-paige-rodeghero
+  - collaborator-matthew-boyer
   - ugrad-justin-zou
   - ugrad-an-tang
   - ugrad-justin-hsieh
-  - ugrad-raymond-welgosh
   - ugrad-emily-amspoker
   - ugrad-ireoluwa-alarape
   - ugrad-dhruva-reddy
-  - ugrad-zhiheng-ye
   - grad-wenxin-ju
   - grad-mingzhe-li
   

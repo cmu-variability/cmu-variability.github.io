@@ -24,7 +24,7 @@ grad-wenxin-ju:
 
 grad-rosanna-vitiello:
     display_name: "Rosanna Vitiello"
-    role: grad-masters
+    role: grad-alumni
 
 grad-alana-rogers:
     display_name: "Alana Rogers"
@@ -38,6 +38,10 @@ grad-mingzhe-li:
     display_name: "Mingzhe (Vera) Li"
     role: grad-masters
     image: /img/people/vera-li.jpg
+
+grad-darren-butler:
+    display_name: "Ren Butler"
+    role: grad-phd
 
 #grad-alicia-ng:
 #    display_name: "Alicia Ng"
@@ -60,7 +64,7 @@ ugrad-meixuan-li:
 
 ugrad-raymond-welgosh:
     display_name: "Raymond Welgosh"
-    role: ugrad
+    role: ugrad-alumni
 
 ugrad-emily-amspoker:
     display_name: "Emily Amspoker"
@@ -103,7 +107,7 @@ ugrad-sidney-ozcan:
 ugrad-aditya-ganesh:
     display_name: "Aditya (Adit) Ganesh"
     webpage: "https://www.linkedin.com/in/aditya-ganesh-b3979422b/"
-    role: ugrad
+    role: ugrad-alumni
     image: /img/people/adit-ganesh.jpg
 
 ugrad-zimeng-wang:
@@ -146,12 +150,16 @@ ugrad-meghana-tera:
     display_name: "Meghana Tera"
     role: ugrad
 
-ugrad-jospeh-lee:
+ugrad-joseph-lee:
     display_name: Joseph Lee
     role: ugrad
 
 ugrad-wenjun-zhou:
     display_name: Wenjun (Connie) Zhou
+    role: ugrad
+
+ugrad-emily-yu:
+    display_name: Emily Yu
     role: ugrad
 
 collaborator-hala-annabi:
@@ -170,3 +178,35 @@ collaborator-kathy-dow-burger:
    webpage: "https://hesp.umd.edu/facultyprofile/dow-burger/kathy"
    image: /img/people/dow-burger.jpg
    
+collaborator-jennifer-wessel:
+   display_name: "Jennifer Wessel"
+   role: collab
+   bio: Associate Professor
+   org: University of Maryland at College Park
+   webpage: "https://psyc.umd.edu/facultyprofile/wessel/jennifer"
+   image: "https://psyc.umd.edu/sites/psyc.umd.edu/files/styles/width320/public/Wessel%20photo%202014.jpg"
+
+collaborator-elizabeth-redcay:
+   display_name: "Elizabeth Redcay"
+   role: collab
+   bio: Associate Professor
+   org: University of Maryland at College Park
+   webpage: "https://psyc.umd.edu/facultyprofile/redcay/elizabeth"
+   image: "https://psyc.umd.edu/sites/psyc.umd.edu/files/styles/width320/public/Redcay_photo.jpg"
+
+collaborator-paige-rodeghero:
+   display_name: "Paige Rodeghero"
+   role: collab
+   bio: Assistant Professor
+   org: Clemson University
+   webpage: "https://paigerodeghero.com"
+   image: "https://paigerodeghero.com/HTML/img/dr_rodeghero_sm.jpeg"
+
+collaborator-matthew-boyer:
+   display_name: "Matthew Boyer"
+   role: collab
+   bio: Research Associate Professor
+   org: Clemson University
+   webpage: "https://www.clemson.edu/cecas/departments/ese/people/esed-faculty/boyer.html"
+   image: "https://www.clemson.edu/cecas/prospective-students/undergraduate/images/spectra/team/matthew-boyer.jpg"
+

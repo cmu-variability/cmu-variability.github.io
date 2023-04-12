@@ -9,6 +9,7 @@ description: |
 people: 
   - ugrad-veronica-pimenova
   - ugrad-baramee-bhakdibhumi
+  - ugrad-emily-yu
   
 layout: project
 no-link: true
