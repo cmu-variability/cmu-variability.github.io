@@ -7,10 +7,12 @@ description: |
  
 people:
   - grad-darren-butler
+  - ugrad-wenjun-zhou
+  - ugrad-kajal-mehta
 
   
 layout: project
 last-updated: 2023-01-02
-no-link: true
+link: design-for-nd.html
 
 ---

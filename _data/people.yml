@@ -42,6 +42,7 @@ grad-mingzhe-li:
 grad-darren-butler:
     display_name: "Ren Butler"
     role: grad-phd
+    relevant-proj: design-for-nd
 
 #grad-alicia-ng:
 #    display_name: "Alicia Ng"
@@ -59,7 +60,7 @@ ugrad-justin-zou:
     role: ugrad
 
 ugrad-meixuan-li:
-    display_name: "Mexiuan (Lucy) Li"
+    display_name: "Meixuan (Lucy) Li"
     role: ugrad-alumni
 
 ugrad-raymond-welgosh:
@@ -121,6 +122,7 @@ ugrad-gabriel-aguirre:
 ugrad-kajal-mehta:
     display_name: "Kajal Mehta"
     role: ugrad
+    relevant-proj: design-for-nd
 
 ugrad-yiqun-zhang:
     display_name: "Yiqun (Melody) Zhang"
@@ -157,6 +159,8 @@ ugrad-joseph-lee:
 ugrad-wenjun-zhou:
     display_name: Wenjun (Connie) Zhou
     role: ugrad
+    relevant-proj: design-for-nd
+    image: /img/people/connie-zhou.jpg
 
 ugrad-emily-yu:
     display_name: Emily Yu
