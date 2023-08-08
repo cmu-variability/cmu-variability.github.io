@@ -9,6 +9,7 @@ people:
   - grad-darren-butler
   - ugrad-wenjun-zhou
   - ugrad-kajal-mehta
+  - ugrad-christina-trice
 
   
 layout: project
