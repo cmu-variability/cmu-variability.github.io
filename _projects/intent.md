@@ -10,10 +10,11 @@ people:
   - collaborator-kathy-dow-burger
   - collaborator-jennifer-wessel
   - collaborator-elizabeth-redcay
+  - grad-morgan-evans
   - ugrad-kajal-mehta
   - ugrad-wenjun-zhou
   
 layout: project
 no-link: true
-last-updated: 2023-01-02
+last-updated: 2023-08-08
 ---

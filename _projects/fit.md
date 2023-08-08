@@ -15,6 +15,7 @@ people:
   - grad-jiwoong-jang
   - ugrad-joseph-lee
   - ugrad-zhiheng-ye
+  - grad-apolline-tardy
   
 layout: project
 no-link: true

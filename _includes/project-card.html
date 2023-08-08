@@ -35,6 +35,19 @@
         {% if project.no-link != true or project.link %}
             <a href="{{ proj-url }}"> Read more &raquo;</a>
         {% endif %}
+        {% if project.video %}
+            {% assign vidurl = project.video %}
+            {% capture init %}{{ project.video | slice: 0,1 }}{% endcapture %}
+            {% if init == "/" %}
+                {% capture vidurl %}{{site.base}}{{project.video}}{% endcapture %}
+            {% endif %}
+            <iframe class="img-fluid mb-3" width="560" height="315" src="{{vidurl}}" title="{{project.title}}" 
+                    frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+                                           encrypted-media; gyroscope; picture-in-picture; 
+                                           web-share" allowfullscreen 
+                    alt="{{project.title}}">
+            </iframe>
+        {% endif %}
     </div>
     {% if project.people %}
         <div class="card-footer d-flex flex-row flex-wrap justify-content-center">

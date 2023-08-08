@@ -42,7 +42,10 @@ grad-mingzhe-li:
 grad-darren-butler:
     display_name: "Ren Butler"
     role: grad-phd
-    relevant-proj: design-for-nd
+
+grad-morgan-evans:
+    display_name: "Morgan Evans"
+    role: grad-phd
 
 #grad-alicia-ng:
 #    display_name: "Alicia Ng"
@@ -52,8 +55,10 @@ grad-darren-butler:
 #    display_name: "Eunbea (Rosie) Ji"
 #    role: grad-masters
 
-
-
+grad-apolline-tardy:
+    display_name: "Apolline Tardy"
+    role: grad-masters
+    image: /img/people/apolline-tardy.png
 
 ugrad-justin-zou:
     display_name: "Justin Zou"
@@ -159,7 +164,6 @@ ugrad-joseph-lee:
 ugrad-wenjun-zhou:
     display_name: Wenjun (Connie) Zhou
     role: ugrad
-    relevant-proj: design-for-nd
     image: /img/people/connie-zhou.jpg
 
 ugrad-emily-yu:
@@ -170,6 +174,17 @@ ugrad-christina-trice:
     display_name: Christina Trice
     role: ugrad
     org: University of Maryland at College Park
+
+ugrad-juno-bartsch:
+    display_name: Juno Bartsch
+    role: ugrad
+    org: Haverford College
+
+ugrad-veronica-lin:
+    display_name: Yanzi (Veronica) Lin
+    role: ugrad
+    org: Wellesley College
+
 
 collaborator-hala-annabi:
    display_name: "Hala Annabi"
@@ -212,7 +227,7 @@ collaborator-paige-rodeghero:
    image: "https://paigerodeghero.com/HTML/img/dr_rodeghero_sm.jpeg"
 
 collaborator-matthew-boyer:
-   display_name: "Matthew Boyer"
+   display_name: "D. Matthew Boyer"
    role: collab
    bio: Research Associate Professor
    org: Clemson University
