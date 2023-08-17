@@ -3,187 +3,26 @@ prof-begel:
     webpage: "https://andrewbegel.com"
     github: abegel
     image: /img/people/abegel.png
-    role: faculty
+    role: organizers
     bio: Professor
 
-grad-gabrielle-ohlson:
-    display_name: "Gabrielle Ohlson"
-    webpage: "https://edgygrandma.com/"
-    role: grad-phd
-
-grad-jiwoong-jang:
-    display_name: "JiWoong (Joon) Jang"
-    webpage: "https://joonbug.me"
-    role: grad-phd
-    image: /img/people/joon-jang.jpg
-
-grad-wenxin-ju:
-    display_name: "Wenxin (Wendy) Ju"
-    role: grad-masters
+pm-karen-krainz-edison:
+    display_name: "Karen Krainz Edison"
+    role: organizers
+    bio: Program Manager
+    org: Ohio State University
+    webpage: https://nisonger.osu.edu/staff/krainz-edison-karen/
+    image: img/people/karen-krainz-edison.jpg
 
 
-grad-rosanna-vitiello:
-    display_name: "Rosanna Vitiello"
-    role: grad-alumni
+pm-amy-tavares:
+    display_name: "Amy Tavares"
+    role: service-providers
+    bio: Neurodiversity Program Manager
+    org: Carnegie Mellon University
+    webpage: https://www.linkedin.com/in/amy-tavares-1620/
+    image: img/people/amy-tavares.jpg
 
-grad-alana-rogers:
-    display_name: "Alana Rogers"
-    role: grad-alumni
-
-grad-manvi-gupta:
-    display_name: "Manvi Gupta"
-    role: grad-masters
-
-grad-mingzhe-li:
-    display_name: "Mingzhe (Vera) Li"
-    role: grad-masters
-    image: /img/people/vera-li.jpg
-
-grad-darren-butler:
-    display_name: "Ren Butler"
-    role: grad-phd
-
-grad-morgan-evans:
-    display_name: "Morgan Evans"
-    role: grad-phd
-
-#grad-alicia-ng:
-#    display_name: "Alicia Ng"
-#    role: grad-masters
-
-#grad-eunbea-ji:
-#    display_name: "Eunbea (Rosie) Ji"
-#    role: grad-masters
-
-grad-apolline-tardy:
-    display_name: "Apolline Tardy"
-    role: grad-masters
-    image: /img/people/apolline-tardy.png
-
-ugrad-justin-zou:
-    display_name: "Justin Zou"
-    role: ugrad
-
-ugrad-meixuan-li:
-    display_name: "Meixuan (Lucy) Li"
-    role: ugrad-alumni
-
-ugrad-raymond-welgosh:
-    display_name: "Raymond Welgosh"
-    role: ugrad-alumni
-
-ugrad-emily-amspoker:
-    display_name: "Emily Amspoker"
-    role: ugrad
-    image: /img/people/emily-amspoker.jpg
-
-ugrad-justin-hsieh:
-    display_name: "Justin Hsieh"
-    role: ugrad
-
-ugrad-an-tang:
-    display_name: "An Tang"
-    role: ugrad
-
-ugrad-ireoluwa-alarape:
-    display_name: "Ireoluwa Alarape"
-    role: ugrad
-
-ugrad-zhiheng-ye:
-    display_name: "Zhiheng (Andy) Ye"
-    role: ugrad
-
-ugrad-dhruva-reddy:
-    display_name: "Dhruva Reddy"
-    role: ugrad
-    image: /img/people/dhruva-reddy.jpg
-
-ugrad-mahith-edula:
-    display_name: "Mahith Edula"
-    role: ugrad-alumni
-
-ugrad-adam-bournes:
-    display_name: "Adam Bournes"
-    role: ugrad-alumni
-
-ugrad-sidney-ozcan:
-    display_name: "Sidney Ozcan"
-    role: ugrad
-
-ugrad-aditya-ganesh:
-    display_name: "Aditya (Adit) Ganesh"
-    webpage: "https://www.linkedin.com/in/aditya-ganesh-b3979422b/"
-    role: ugrad-alumni
-    image: /img/people/adit-ganesh.jpg
-
-ugrad-zimeng-wang:
-    display_name: "Zimeng (Ayla) Wang"
-    role: ugrad
-
-ugrad-gabriel-aguirre:
-    display_name: "Gabriel Aguirre"
-    role: ugrad
-
-ugrad-kajal-mehta:
-    display_name: "Kajal Mehta"
-    role: ugrad
-    relevant-proj: design-for-nd
-
-ugrad-yiqun-zhang:
-    display_name: "Yiqun (Melody) Zhang"
-    role: ugrad
-
-ugrad-saanika-chauk:
-    display_name: Saanika Chauk
-    role: ugrad
-
-ugrad-erica-fu:
-    display_name: "Erica Fu"
-    role: ugrad
-
-ugrad-baramee-bhakdibhumi:
-    display_name: "Baramee (Bing) Bhakdibhumi"
-    role: ugrad
-
-ugrad-veronica-pimenova:
-    display_name: "Veronica Pimenova"
-    role: ugrad
-
-ugrad-janise-kim: 
-    display_name: "Janise Kim"
-    role: ugrad
-
-ugrad-meghana-tera:
-    display_name: "Meghana Tera"
-    role: ugrad
-
-ugrad-joseph-lee:
-    display_name: Joseph Lee
-    role: ugrad
-
-ugrad-wenjun-zhou:
-    display_name: Wenjun (Connie) Zhou
-    role: ugrad
-    image: /img/people/connie-zhou.jpg
-
-ugrad-emily-yu:
-    display_name: Emily Yu
-    role: ugrad
-
-ugrad-christina-trice:
-    display_name: Christina Trice
-    role: ugrad
-    org: University of Maryland at College Park
-
-ugrad-juno-bartsch:
-    display_name: Juno Bartsch
-    role: ugrad
-    org: Haverford College
-
-ugrad-veronica-lin:
-    display_name: Yanzi (Veronica) Lin
-    role: ugrad
-    org: Wellesley College
 
 
 collaborator-hala-annabi:
@@ -202,35 +41,3 @@ collaborator-kathy-dow-burger:
    webpage: "https://hesp.umd.edu/facultyprofile/dow-burger/kathy"
    image: /img/people/dow-burger.jpg
    
-collaborator-jennifer-wessel:
-   display_name: "Jennifer Wessel"
-   role: collab
-   bio: Associate Professor
-   org: University of Maryland at College Park
-   webpage: "https://psyc.umd.edu/facultyprofile/wessel/jennifer"
-   image: "https://psyc.umd.edu/sites/psyc.umd.edu/files/styles/width320/public/Wessel%20photo%202014.jpg"
-
-collaborator-elizabeth-redcay:
-   display_name: "Elizabeth Redcay"
-   role: collab
-   bio: Associate Professor
-   org: University of Maryland at College Park
-   webpage: "https://psyc.umd.edu/facultyprofile/redcay/elizabeth"
-   image: "https://psyc.umd.edu/sites/psyc.umd.edu/files/styles/width320/public/Redcay_photo.jpg"
-
-collaborator-paige-rodeghero:
-   display_name: "Paige Rodeghero"
-   role: collab
-   bio: Assistant Professor
-   org: Clemson University
-   webpage: "https://paigerodeghero.com"
-   image: "https://paigerodeghero.com/HTML/img/dr_rodeghero_sm.jpeg"
-
-collaborator-matthew-boyer:
-   display_name: "D. Matthew Boyer"
-   role: collab
-   bio: Research Associate Professor
-   org: Clemson University
-   webpage: "https://www.clemson.edu/cecas/departments/ese/people/esed-faculty/boyer.html"
-   image: "https://www.clemson.edu/cecas/prospective-students/undergraduate/images/spectra/team/matthew-boyer.jpg"
-
