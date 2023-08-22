@@ -1,6 +1,6 @@
 ---
 
-title: Neurodiversity at Work Research Workshop
+title: Neurodiversity @ Work
 
 description: |
  Our mission is to support the preparation, recruitment, persistence, advancement, and management of neurodivergent individuals in the workplace. We will mentor and support neurodivergent students to succeed in their educational goals in high school, college, and beyond. In addition, we focus on creating educational pedagogy to teach neurotypical coworkers how to work best with their neurodivergent colleagues.
