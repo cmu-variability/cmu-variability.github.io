@@ -10,10 +10,12 @@ people:
   - ugrad-veronica-pimenova
   - ugrad-baramee-bhakdibhumi
   - ugrad-emily-yu
+  - ugrad-chris-lee
+  - ugrad-octavius-tan
   
 layout: project
 no-link: true
-last-updated: 2023-01-02
+last-updated: 2023-09-17
 
 
 ---

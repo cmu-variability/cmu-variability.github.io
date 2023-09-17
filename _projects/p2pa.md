@@ -8,12 +8,10 @@ description: |
 
 people:
  - ugrad-meghana-tera
- - grad-manvi-gupta
- - ugrad-janise-kim
   
 layout: project
 no-link: true
-last-updated: 2023-01-02
+last-updated: 2023-09-17
 
 
 ---

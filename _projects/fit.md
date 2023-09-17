@@ -8,17 +8,14 @@ description: |
    
 people: 
 
-  - ugrad-sidney-ozcan
-  - ugrad-zimeng-wang
-  - ugrad-gabriel-aguirre
   - ugrad-saanika-chauk
-  - grad-jiwoong-jang
-  - ugrad-joseph-lee
-  - ugrad-zhiheng-ye
+  - ugrad-aditya-ganesh
+  - ugrad-adam-bournes
+  - grad-jinjin-du
   - grad-apolline-tardy
   
 layout: project
 no-link: true
-last-updated: 2023-01-02
+last-updated: 2023-09-17
    
 ---

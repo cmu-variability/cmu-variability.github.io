@@ -2,23 +2,15 @@
 title: Collaboration Station
 
 description: |
-  A web-based, block-based IDE that supports synchronous co-editing and collaboration. 
-  
+  We are developing web-based, block-based IDE based on [Scratch](https://scratch.mit.edu) that supports synchronous co-editing with Zoom-enabled collaboration. We use this IDE in our yearly [EdASE](https://edase.org) summer video game coding camp for autistic high school students.
+
 people: 
   - collaborator-paige-rodeghero
   - collaborator-matthew-boyer
-  - ugrad-justin-zou
-  - ugrad-an-tang
-  - ugrad-justin-hsieh
-  - ugrad-emily-amspoker
-  - ugrad-ireoluwa-alarape
-  - ugrad-dhruva-reddy
-  - grad-wenxin-ju
-  - grad-mingzhe-li
   
   
 layout: project
-last-updated: 2023-01-02
+last-updated: 2023-09-17
 no-link: true
 
 ---

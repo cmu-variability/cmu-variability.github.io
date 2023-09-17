@@ -7,13 +7,12 @@ description: |
  
 people:
   - grad-darren-butler
-  - ugrad-wenjun-zhou
-  - ugrad-kajal-mehta
-  - ugrad-christina-trice
+  - grad-kaia-newman
+  - ugrad-amanda-zhu
 
   
 layout: project
-last-updated: 2023-01-02
+last-updated: 2023-09-17
 link: design-for-nd.html
 
 ---

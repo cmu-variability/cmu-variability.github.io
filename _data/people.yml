@@ -4,26 +4,32 @@ prof-begel:
     github: abegel
     image: /img/people/abegel.png
     role: faculty
+    org: "Software and Societal Systems Department"
     bio: Professor
-
-grad-gabrielle-ohlson:
-    display_name: "Gabrielle Ohlson"
-    webpage: "https://edgygrandma.com/"
-    role: grad-phd
 
 grad-jiwoong-jang:
     display_name: "JiWoong (Joon) Jang"
     webpage: "https://joonbug.me"
     role: grad-phd
+    org: Human-Computer Interaction Institute
     image: /img/people/joon-jang.jpg
+
+grad-gabrielle-ohlson:
+    display_name: "Gabrielle Ohlson"
+    webpage: "https://edgygrandma.com/"
+    role: grad-phd
+    org: Robotics Institute
+
+grad-kaia-newman:
+    display_name: "Kaia Newman"
+    webpage: "https://www.linkedin.com/in/kaia-newman/"
+    role: grad-phd
+    org: Software and Societal Systems Department
+    image: /img/people/kaia-newman.jpeg
+
 
 grad-wenxin-ju:
     display_name: "Wenxin (Wendy) Ju"
-    role: grad-masters
-
-
-grad-rosanna-vitiello:
-    display_name: "Rosanna Vitiello"
     role: grad-alumni
 
 grad-alana-rogers:
@@ -32,20 +38,36 @@ grad-alana-rogers:
 
 grad-manvi-gupta:
     display_name: "Manvi Gupta"
-    role: grad-masters
+    role: grad-alumni
 
 grad-mingzhe-li:
     display_name: "Mingzhe (Vera) Li"
-    role: grad-masters
+    role: grad-alumni
     image: /img/people/vera-li.jpg
 
 grad-darren-butler:
     display_name: "Ren Butler"
+    org: Human-Computer Interaction Institute
     role: grad-phd
 
 grad-morgan-evans:
     display_name: "Morgan Evans"
+    org: Software and Societal Systems Department
     role: grad-phd
+
+
+grad-jinjin-du:
+    display_name: "Jin Jin Du"
+    role: grad-masters
+
+
+collaborator-naba-rizvi:
+    display_name: "Naba Rizvi"
+    webpage: "https://nrizvi.github.io"
+    role: collab
+    bio: PhD Student
+    org: UC San Diego
+    image: /img/people/naba-rizvi.jpg
 
 #grad-alicia-ng:
 #    display_name: "Alicia Ng"
@@ -62,7 +84,7 @@ grad-apolline-tardy:
 
 ugrad-justin-zou:
     display_name: "Justin Zou"
-    role: ugrad
+    role: ugrad-alumni
 
 ugrad-meixuan-li:
     display_name: "Meixuan (Lucy) Li"
@@ -79,23 +101,23 @@ ugrad-emily-amspoker:
 
 ugrad-justin-hsieh:
     display_name: "Justin Hsieh"
-    role: ugrad
+    role: ugrad-alumni
 
 ugrad-an-tang:
     display_name: "An Tang"
-    role: ugrad
+    role: ugrad-alumni
 
 ugrad-ireoluwa-alarape:
     display_name: "Ireoluwa Alarape"
-    role: ugrad
+    role: ugrad-alumni
 
 ugrad-zhiheng-ye:
     display_name: "Zhiheng (Andy) Ye"
-    role: ugrad
+    role: ugrad-alumni
 
 ugrad-dhruva-reddy:
     display_name: "Dhruva Reddy"
-    role: ugrad
+    role: ugrad-alumni
     image: /img/people/dhruva-reddy.jpg
 
 ugrad-mahith-edula:
@@ -104,21 +126,21 @@ ugrad-mahith-edula:
 
 ugrad-adam-bournes:
     display_name: "Adam Bournes"
-    role: ugrad-alumni
+    role: ugrad
 
 ugrad-sidney-ozcan:
     display_name: "Sidney Ozcan"
-    role: ugrad
+    role: ugrad-alumni
 
 ugrad-aditya-ganesh:
     display_name: "Aditya (Adit) Ganesh"
     webpage: "https://www.linkedin.com/in/aditya-ganesh-b3979422b/"
-    role: ugrad-alumni
+    role: ugrad
     image: /img/people/adit-ganesh.jpg
 
 ugrad-zimeng-wang:
     display_name: "Zimeng (Ayla) Wang"
-    role: ugrad
+    role: ugrad-alumni
 
 ugrad-gabriel-aguirre:
     display_name: "Gabriel Aguirre"
@@ -126,12 +148,12 @@ ugrad-gabriel-aguirre:
 
 ugrad-kajal-mehta:
     display_name: "Kajal Mehta"
-    role: ugrad
+    role: ugrad-alumni
     relevant-proj: design-for-nd
 
 ugrad-yiqun-zhang:
     display_name: "Yiqun (Melody) Zhang"
-    role: ugrad
+    role: ugrad-alumni
 
 ugrad-saanika-chauk:
     display_name: Saanika Chauk
@@ -139,7 +161,7 @@ ugrad-saanika-chauk:
 
 ugrad-erica-fu:
     display_name: "Erica Fu"
-    role: ugrad
+    role: ugrad-alumni
 
 ugrad-baramee-bhakdibhumi:
     display_name: "Baramee (Bing) Bhakdibhumi"
@@ -151,7 +173,7 @@ ugrad-veronica-pimenova:
 
 ugrad-janise-kim: 
     display_name: "Janise Kim"
-    role: ugrad
+    role: ugrad-alumni
 
 ugrad-meghana-tera:
     display_name: "Meghana Tera"
@@ -159,11 +181,11 @@ ugrad-meghana-tera:
 
 ugrad-joseph-lee:
     display_name: Joseph Lee
-    role: ugrad
+    role: ugrad-alumni
 
 ugrad-wenjun-zhou:
     display_name: Wenjun (Connie) Zhou
-    role: ugrad
+    role: ugrad-alumni
     image: /img/people/connie-zhou.jpg
 
 ugrad-emily-yu:
@@ -172,18 +194,31 @@ ugrad-emily-yu:
 
 ugrad-christina-trice:
     display_name: Christina Trice
-    role: ugrad
+    role: ugrad-alumni
     org: University of Maryland at College Park
 
 ugrad-juno-bartsch:
     display_name: Juno Bartsch
-    role: ugrad
+    role: ugrad-alumni
     org: Haverford College
 
 ugrad-veronica-lin:
     display_name: Yanzi (Veronica) Lin
-    role: ugrad
+    role: ugrad-alumni
     org: Wellesley College
+
+ugrad-chris-lee:
+    display_name: Chris Lee
+    role: ugrad
+
+ugrad-octavius-tan:
+    display_name: Octavius Tan
+    role: ugrad
+
+ugrad-amanda-zhu:
+    display_name: Amanada Zhu
+    role: ugrad
+
 
 
 collaborator-hala-annabi:
@@ -234,3 +269,10 @@ collaborator-matthew-boyer:
    webpage: "https://www.clemson.edu/cecas/departments/ese/people/esed-faculty/boyer.html"
    image: "https://www.clemson.edu/cecas/prospective-students/undergraduate/images/spectra/team/matthew-boyer.jpg"
 
+collaborator-steven-isaacson:
+    display_name: "Steven Isaacson"
+    role: collab
+    bio: Autism Policy Analyst
+    org: National Institute of Mental Health (NIMH)
+    webpage: https://www.linkedin.com/in/steven-a-isaacson-lmsw-0ba28586/
+    image: /img/people/steven-isaacson.jpg
