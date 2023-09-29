@@ -219,6 +219,18 @@ ugrad-amanda-zhu:
     display_name: Amanada Zhu
     role: ugrad
 
+ugrad-michelle-feng:
+    display_name: Michelle Feng
+    role: ugrad
+    image: /img/people/michelle-feng.jpg
+
+ugrad-yihan-luo:
+    display_name: Yihan (Hanna) Luo
+    role: ugrad
+
+ugrad-junwei-tan:
+    display_name: Jun Wei (Ethan) Tan
+    role: ugrad
 
 
 collaborator-hala-annabi:
