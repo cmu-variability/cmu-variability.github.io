@@ -8,7 +8,10 @@ description: |
 people:
   - grad-darren-butler
   - grad-kaia-newman
+  - ugrad-wenjun-zhou
+  - ugrad-kajal-mehta
   - ugrad-amanda-zhu
+  - ugrad-yihan-luo
 
   
 layout: project
