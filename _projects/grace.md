@@ -7,6 +7,7 @@ description:
       
 people: 
    - ugrad-michelle-feng
+   - ugrad-jiachen-liu
 
   
 video: "https://www.youtube.com/embed/JHdtWCqQhik"
