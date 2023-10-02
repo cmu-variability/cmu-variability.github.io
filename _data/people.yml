@@ -172,6 +172,7 @@ ugrad-veronica-pimenova:
     display_name: "Veronica Pimenova"
     role: ugrad
     image: img/people/veronica-pimenova.jpg
+    webpage: https://www.linkedin.com/in/veronicapimenova"
 
 ugrad-janise-kim: 
     display_name: "Janise Kim"
@@ -213,14 +214,16 @@ ugrad-veronica-lin:
 ugrad-chris-lee:
     display_name: Chris Lee
     role: ugrad
+    image: /img/people/chris-lee.jpg
 
 ugrad-octavius-tan:
     display_name: Octavius Tan
     role: ugrad
 
 ugrad-amanda-zhu:
-    display_name: Amanada Zhu
+    display_name: Amanda Zhu
     role: ugrad
+    image: /img/people/amanda-zhu.jpg
 
 ugrad-michelle-feng:
     display_name: Michelle Feng
