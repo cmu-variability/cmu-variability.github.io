@@ -145,6 +145,7 @@ ugrad-zimeng-wang:
 ugrad-gabriel-aguirre:
     display_name: "Gabriel Aguirre"
     role: ugrad
+    image: /img/people/gabriel-aguirre.jpg
 
 ugrad-kajal-mehta:
     display_name: "Kajal Mehta"
@@ -170,6 +171,7 @@ ugrad-baramee-bhakdibhumi:
 ugrad-veronica-pimenova:
     display_name: "Veronica Pimenova"
     role: ugrad
+    image: img/people/veronica-pimenova.jpg
 
 ugrad-janise-kim: 
     display_name: "Janise Kim"
@@ -178,6 +180,7 @@ ugrad-janise-kim:
 ugrad-meghana-tera:
     display_name: "Meghana Tera"
     role: ugrad
+    image: /img/people/meghana-tera.png
 
 ugrad-joseph-lee:
     display_name: Joseph Lee
