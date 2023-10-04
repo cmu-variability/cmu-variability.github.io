@@ -127,6 +127,7 @@ ugrad-mahith-edula:
 ugrad-adam-bournes:
     display_name: "Adam Bournes"
     role: ugrad
+    image: /img/people/adam-bournes.jpg
 
 ugrad-sidney-ozcan:
     display_name: "Sidney Ozcan"
@@ -167,6 +168,7 @@ ugrad-erica-fu:
 ugrad-baramee-bhakdibhumi:
     display_name: "Baramee (Bing) Bhakdibhumi"
     role: ugrad
+    image: /img/people/baramee-bhakdibhumi.jpg
 
 ugrad-veronica-pimenova:
     display_name: "Veronica Pimenova"
@@ -233,6 +235,7 @@ ugrad-michelle-feng:
 ugrad-yihan-luo:
     display_name: Yihan (Hanna) Luo
     role: ugrad
+    image: /img/people/yihan-luo.jpg
 
 ugrad-junwei-tan:
     display_name: Jun Wei (Ethan) Tan
