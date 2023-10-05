@@ -13,6 +13,8 @@ people:
   - prof-begel
   - collaborator-hala-annabi
   - collaborator-kathy-dow-burger
+  - collaborator-karen-krainz-edison
+  - collaborator-amy-tavares
   
 layout: project
 last-updated: 2023-09-17

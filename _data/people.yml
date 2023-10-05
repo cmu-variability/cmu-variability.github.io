@@ -60,6 +60,10 @@ grad-jinjin-du:
     display_name: "Jin Jin Du"
     role: grad-masters
 
+grad-qiaoqiao-ma:
+    display_name: "Qiaoqiao Ma"
+    role: grad-masters
+
 
 collaborator-naba-rizvi:
     display_name: "Naba Rizvi"
@@ -69,6 +73,31 @@ collaborator-naba-rizvi:
     org: UC San Diego
     image: /img/people/naba-rizvi.jpg
 
+collaborator-mauli-pandey:
+    display_name: "Mauli Pandey"
+    webpage: "https://pandeymauli.github.io/research/index.html"
+    role: collab
+    bio: Software Engineer
+    org: Google
+    image: /img/people/mauli-pandey.jpg
+       
+
+collaborator-karen-krainz-edison:
+    display_name: "Karen Krainz Edison"
+    role: collab
+    bio: Program Manager
+    org: Ohio State University
+    webpage: https://nisonger.osu.edu/staff/krainz-edison-karen/
+    image: /img/people/karen-krainz-edison.png
+
+
+collaborator-amy-tavares:
+    display_name: "Amy Tavares"
+    role: collab
+    bio: Neurodiversity Program Manager
+    org: Carnegie Mellon University
+    webpage: https://www.linkedin.com/in/amy-tavares-1620/
+    image: /img/people/amy-tavares.jpg
 #grad-alicia-ng:
 #    display_name: "Alicia Ng"
 #    role: grad-masters
@@ -155,11 +184,12 @@ ugrad-kajal-mehta:
 
 ugrad-yiqun-zhang:
     display_name: "Yiqun (Melody) Zhang"
-    role: ugrad-alumni
+    role: ugrad
 
 ugrad-saanika-chauk:
     display_name: Saanika Chauk
     role: ugrad
+    image: /img/people/saanika-chauk.jpg
 
 ugrad-erica-fu:
     display_name: "Erica Fu"
@@ -186,30 +216,30 @@ ugrad-meghana-tera:
     image: /img/people/meghana-tera.png
 
 ugrad-joseph-lee:
-    display_name: Joseph Lee
+    display_name: "Joseph Lee"
     role: ugrad-alumni
 
 ugrad-wenjun-zhou:
-    display_name: Wenjun (Connie) Zhou
+    display_name: "Wenjun (Connie) Zhou"
     role: ugrad-alumni
     image: /img/people/connie-zhou.jpg
 
 ugrad-emily-yu:
-    display_name: Emily Yu
+    display_name: "Emily Yu"
     role: ugrad
 
 ugrad-christina-trice:
-    display_name: Christina Trice
+    display_name: "Christina Trice"
     role: ugrad-alumni
     org: University of Maryland at College Park
 
 ugrad-juno-bartsch:
-    display_name: Juno Bartsch
+    display_name: "Juno Bartsch"
     role: ugrad-alumni
     org: Haverford College
 
 ugrad-veronica-lin:
-    display_name: Yanzi (Veronica) Lin
+    display_name: "Yanzi (Veronica) Lin"
     role: ugrad-alumni
     org: Wellesley College
 
@@ -236,10 +266,6 @@ ugrad-yihan-luo:
     display_name: Yihan (Hanna) Luo
     role: ugrad
     image: /img/people/yihan-luo.jpg
-
-ugrad-junwei-tan:
-    display_name: Jun Wei (Ethan) Tan
-    role: ugrad
 
 ugrad-jiachen-liu:
     display_name: Jiachen Liu

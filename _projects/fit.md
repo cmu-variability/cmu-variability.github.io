@@ -9,12 +9,11 @@ description: |
    
 people: 
 
-  - ugrad-saanika-chauk
+  - grad-apolline-tardy
   - ugrad-aditya-ganesh
   - ugrad-adam-bournes
-  - ugrad-junwei-tan
   - grad-jinjin-du
-  - grad-apolline-tardy
+  - ugrad-saanika-chauk
 
   
 layout: project

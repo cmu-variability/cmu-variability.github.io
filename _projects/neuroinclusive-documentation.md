@@ -12,6 +12,9 @@ people:
   - ugrad-emily-yu
   - ugrad-chris-lee
   - ugrad-octavius-tan
+  - ugrad-yiqun-zhang
+  - ugrad-gabriel-aguirre
+  - grad-qiaoqiao-ma
   
 layout: project
 no-link: true
