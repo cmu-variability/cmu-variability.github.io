@@ -19,7 +19,7 @@ role-tables:
         <div class="col-md-6">
             {% for item in site.data.people %}
                 {% assign person = item[1] %}
-                {% if person.relevant-proj == "design-for-nd" %}
+                {% if person.relevant-proj == "social-accept-AT" %}
                     {% include person.html person=person image=true %}
                 {% endif %}
             {% endfor %}
