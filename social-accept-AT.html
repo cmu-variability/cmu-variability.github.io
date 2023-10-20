@@ -6,7 +6,7 @@ notitle: true
 
 # groups of columns of {roles: list, width: num, image: bool}
 role-tables:
-- - releproj: [social-accept-AT]
+- - releproj: [social-acceptability-AT]
     width: 3
     image: true
 
@@ -19,7 +19,7 @@ role-tables:
         <div class="col-md-6">
             {% for item in site.data.people %}
                 {% assign person = item[1] %}
-                {% if person.relevant-proj == "social-accept-AT" %}
+                {% if person.relevant-proj == "social-acceptability-AT" %}
                     {% include person.html person=person image=true %}
                 {% endif %}
             {% endfor %}
@@ -29,7 +29,7 @@ role-tables:
 
 
 <section>
-    <h2><i class="fa-solid fa-feather-pointed fa-lg"></i> Key Projectss</h2>
+    <h2><i class="fa-solid fa-feather-pointed fa-lg"></i> Key Projects</h2>
     <ul>
         <li>
             <strong>Large Language Model (ChatGPT) Use by Autistic Workers for Social Advice</strong> <i>In submission.</i>
