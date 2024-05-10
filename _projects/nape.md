@@ -1,6 +1,6 @@
 ---
 
-title: Neuroinclusive Documentation
+title: Neurodiversity-Aware Platform for Education
 subtitle: An accessible and inclusive platform for eliminating cognitive barriers in pedagogical material
 
 description: |
