@@ -10,11 +10,10 @@ description: |
 people: 
 
   - grad-apolline-tardy
-  - ugrad-aditya-ganesh
   - ugrad-adam-bournes
-  - grad-jinjin-du
-  - ugrad-saanika-chauk
-
+  - ugrad-zimeng-wang
+  - ugrad-emma-enkhold
+  - ugrad-yihan-luo
   
 layout: project
 no-link: true

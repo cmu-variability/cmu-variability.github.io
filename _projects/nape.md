@@ -9,12 +9,8 @@ description: |
 people: 
   - ugrad-veronica-pimenova
   - ugrad-baramee-bhakdibhumi
-  - ugrad-emily-yu
   - ugrad-chris-lee
-  - ugrad-octavius-tan
-  - ugrad-yiqun-zhang
-  - ugrad-gabriel-aguirre
-  - grad-qiaoqiao-ma
+  - grad-simon-chu
   
 layout: project
 no-link: true
