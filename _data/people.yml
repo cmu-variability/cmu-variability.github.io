@@ -212,6 +212,12 @@ ugrad-veronica-pimenova:
     image: img/people/veronica-pimenova.jpg
     webpage: https://veronicapim.github.io/
 
+ugrad-sofia-reyes-franco:
+    display_name: "Sofia Reyes Franco"
+    role: ugrad
+    image: /img/people/sofia-reyes-franco.jpg
+    webpage: https://sofiareyesf.github.io/personal/
+
 ugrad-janise-kim: 
     display_name: "Janise Kim"
     role: ugrad-alumni

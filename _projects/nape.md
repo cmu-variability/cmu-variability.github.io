@@ -11,6 +11,7 @@ people:
   - ugrad-baramee-bhakdibhumi
   - ugrad-chris-lee
   - grad-simon-chu
+  - ugrad-sofia-reyes-franco
   
 layout: project
 no-link: true
