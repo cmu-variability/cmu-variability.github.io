@@ -77,6 +77,7 @@ grad-jinjin-du:
 grad-qiaoqiao-ma:
     display_name: "Qiaoqiao Ma"
     role: grad-masters
+    image: /img/people/qiaoqiao-ma.png
 
 grad-riya-mody:
     display_name: Riya Mody
