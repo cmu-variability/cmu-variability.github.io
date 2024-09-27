@@ -13,5 +13,6 @@ people:
 layout: project
 last-updated: 2023-09-17
 link: design-for-nd.html
+active: true
 
 ---

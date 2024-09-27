@@ -22,7 +22,7 @@ grad-gabrielle-ohlson:
 
 grad-kaia-newman:
     display_name: "Kaia Newman"
-    webpage: "https://www.linkedin.com/in/kaia-newman/"
+    webpage: "https://kaianew.github.io"
     role: grad-phd
     org: Software and Societal Systems Department
     image: /img/people/kaia-newman.jpeg
@@ -30,9 +30,16 @@ grad-kaia-newman:
 grad-simon-chu:
     display_name: "Simon Chu"
     webpage: "http://simonchu.org"
-    role: grad-phd
+    role: grad-alumni
     org: Software and Societal Systems Department
     image: /img/people/simon-chu.png
+
+grad-eryn-ma:
+    display_name: "Eryn Ma"
+    webpage: "https://www.linkedin.com/in/eryn-ma-656590205/"
+    role: grad-phd
+    org: Software and Societal Systems Department
+    image: /img/people/eryn-ma.jpg
 
 grad-wenxin-ju:
     display_name: "Wenxin (Wendy) Ju"
@@ -55,11 +62,12 @@ grad-darren-butler:
     display_name: "Ren Butler"
     org: Human-Computer Interaction Institute
     role: grad-phd
+    website: "https://darrendbutler.github.io"
 
 grad-morgan-evans:
     display_name: "Morgan Evans"
     org: Software and Societal Systems Department
-    role: grad-phd
+    role: grad-alumni
 
 
 grad-jinjin-du:
@@ -68,7 +76,12 @@ grad-jinjin-du:
 
 grad-qiaoqiao-ma:
     display_name: "Qiaoqiao Ma"
-    role: grad-alumni
+    role: grad-masters
+
+grad-riya-mody:
+    display_name: Riya Mody
+    role: grad-masters
+    org: Human-Computer Interaction Institute
 
 
 collaborator-naba-rizvi:
@@ -220,7 +233,7 @@ ugrad-sofia-reyes-franco:
 
 ugrad-janise-kim: 
     display_name: "Janise Kim"
-    role: ugrad-alumni
+    role: ugrad
 
 ugrad-meghana-tera:
     display_name: "Meghana Tera"
@@ -238,7 +251,7 @@ ugrad-wenjun-zhou:
 
 ugrad-emily-yu:
     display_name: "Emily Yu"
-    role: ugrad-alumni
+    role: ugrad
     image: /img/people/emily-yu.jpg
 
 ugrad-christina-trice:
@@ -277,7 +290,7 @@ ugrad-michelle-feng:
 
 ugrad-yihan-luo:
     display_name: Yihan (Hanna) Luo
-    role: ugrad
+    role: ugrad-alumni
     image: /img/people/yihan-luo.jpg
 
 ugrad-jiachen-liu:
@@ -286,8 +299,31 @@ ugrad-jiachen-liu:
 
 ugrad-emma-enkhbold:
     display_name: Emma Enkhbold
+    role: ugrad-alumni
+
+ugrad-zachary-miller:
+    display_name: Zachary Miller
+    role: ugrad
+    org: University of Pittsburgh
+    webpage: "https://www.reaact.pitt.edu/people/zachary-miller"
+    image: /img/people/zachary-miller.jpg
+
+ugrad-alex-zhu:
+    display_name: Alex Zhu
+    role: ugrad
+    org: Information Systems
+
+ugrad-hermosa-huang:
+    display_name: Hermosa Huang
     role: ugrad
 
+ugrad-sonya-karnataki:
+    display_name: Sonya Karnataki
+    role: ugrad
+
+ugrad-adrian-munoz:
+    display_name: Adrian Munoz
+    role: ugrad
 
 
 

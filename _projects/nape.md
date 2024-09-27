@@ -10,12 +10,13 @@ people:
   - ugrad-veronica-pimenova
   - ugrad-baramee-bhakdibhumi
   - ugrad-chris-lee
-  - grad-simon-chu
   - ugrad-sofia-reyes-franco
+  - ugrad-emily-yu
   
 layout: project
 no-link: true
 last-updated: 2023-09-17
+active: true
 
 
 ---

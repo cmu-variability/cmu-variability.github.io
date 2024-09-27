@@ -9,6 +9,7 @@ people:
 layout: project
 no-link: true
 last-updated: 2023-09-17
+active: false
  
 ---
  

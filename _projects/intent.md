@@ -10,9 +10,11 @@ people:
   - collaborator-kathy-dow-burger
   - collaborator-jennifer-wessel
   - collaborator-elizabeth-redcay
-  - grad-morgan-evans
+  - grad-riya-mody
   
 layout: project
 no-link: true
 last-updated: 2023-09-17
+active: true
+
 ---

@@ -12,5 +12,6 @@ people:
 layout: project
 last-updated: 2023-10-19
 link: social-acceptability-AT.html
+active: true
 
 ---

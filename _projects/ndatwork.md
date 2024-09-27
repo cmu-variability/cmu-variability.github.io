@@ -19,5 +19,6 @@ people:
 layout: project
 last-updated: 2023-09-17
 no-link: true
+active: true
 
 ---

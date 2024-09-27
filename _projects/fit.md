@@ -11,12 +11,10 @@ people:
 
   - grad-apolline-tardy
   - ugrad-adam-bournes
-  - ugrad-zimeng-wang
-  - ugrad-emma-enkhold
-  - ugrad-yihan-luo
   
 layout: project
 no-link: true
 last-updated: 2023-09-17
-   
+active: true
+
 ---
