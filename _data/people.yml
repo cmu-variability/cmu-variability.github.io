@@ -224,7 +224,7 @@ ugrad-baramee-bhakdibhumi:
 ugrad-veronica-pimenova:
     display_name: "Veronica Pimenova"
     role: ugrad
-    image: img/people/veronica-pimenova.jpeg
+    image: /img/people/veronica-pimenova.jpg
     webpage: https://veronicapim.github.io/
 
 ugrad-sofia-reyes-franco:
