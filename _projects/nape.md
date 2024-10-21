@@ -14,7 +14,7 @@ people:
   - ugrad-emily-yu
   
 layout: project
-no-link: true
+no-link: false
 last-updated: 2023-09-17
 active: true
 
