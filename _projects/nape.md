@@ -16,13 +16,9 @@ last-updated: 2023-09-17
 active: true
 ---
 
-## About
-
 The Neurodiversity-Aware Platform for Education (NAPE) aims to address the challenges faced by individuals with diverse cognitive styles. By tailoring educational materials, the project enhances comprehension and retention, making learning more accessible to all.
 
 
-## Goals
+## Study
 
 - Remove cognitive barriers in educational materials
-- Adapt instructional content based on user feedback
-- Increase inclusivity in learning environments
