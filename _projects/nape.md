@@ -5,10 +5,12 @@ description: |
   The NAPE project aims to improve the accessibility of educational materials by adapting them to the cognitive styles of individuals, including those with ADHD, dyslexia, and autism. It seeks to create an inclusive learning environment by removing traditional learning barriers.
 people: 
   - ugrad-veronica-pimenova
-  - ugrad-baramee-bhakdibhumi
   - ugrad-chris-lee
   - ugrad-sofia-reyes-franco
   - ugrad-emily-yu
+  - ugrad-annabelle-chow
+  - ugrad-michael-nguyen
+  - ugrad-amanda-lu
 
 layout: project
 no-link: false

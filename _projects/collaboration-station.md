@@ -7,10 +7,11 @@ description: |
 people: 
   - collaborator-paige-rodeghero
   - collaborator-matthew-boyer
+  - grad-siyun-wen
   
   
 layout: project
-last-updated: 2023-09-17
+last-updated: 2024-12-26
 no-link: true
 active: true
 

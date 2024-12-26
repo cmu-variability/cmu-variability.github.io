@@ -11,10 +11,12 @@ people:
 
   - grad-apolline-tardy
   - ugrad-adam-bournes
+  - ugrad-jiayang-shi
+  - ugrad-chen-hwang
   
 layout: project
 no-link: true
-last-updated: 2023-09-17
+last-updated: 2024-12-26
 active: true
 
 ---

@@ -10,7 +10,6 @@ people:
   - collaborator-kathy-dow-burger
   - collaborator-jennifer-wessel
   - collaborator-elizabeth-redcay
-  - grad-riya-mody
   
 layout: project
 no-link: true

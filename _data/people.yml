@@ -80,45 +80,18 @@ grad-qiaoqiao-ma:
     role: grad-masters
     image: /img/people/qiaoqiao-ma.png
 
-grad-riya-mody:
-    display_name: Riya Mody
+grad-sri-lakshmi-pakhala:
+    display_name: "Sri Lakshmi Pakhala"
     role: grad-masters
-    org: Human-Computer Interaction Institute
 
+grad-rebecca-jiang:
+    display_name: "Rebecca Jiang"
+    role: grad-masters
 
-collaborator-naba-rizvi:
-    display_name: "Naba Rizvi"
-    webpage: "https://nrizvi.github.io"
-    role: collab
-    bio: PhD Student
-    org: UC San Diego
-    image: /img/people/naba-rizvi.jpg
+grad-siyun-wen:
+    display_name: Siyun Wen
+    role: grad-masters
 
-collaborator-mauli-pandey:
-    display_name: "Mauli Pandey"
-    webpage: "https://pandeymauli.github.io/research/index.html"
-    role: collab
-    bio: Software Engineer
-    org: Google
-    image: /img/people/mauli-pandey.jpg
-       
-
-collaborator-karen-krainz-edison:
-    display_name: "Karen Krainz Edison"
-    role: collab
-    bio: Program Manager
-    org: Ohio State University
-    webpage: https://nisonger.osu.edu/staff/krainz-edison-karen/
-    image: /img/people/karen-krainz-edison.png
-
-
-collaborator-amy-tavares:
-    display_name: "Amy Tavares"
-    role: collab
-    bio: Neurodiversity Program Manager
-    org: Carnegie Mellon University
-    webpage: https://www.linkedin.com/in/amy-tavares-1620/
-    image: /img/people/amy-tavares.jpg
 #grad-alicia-ng:
 #    display_name: "Alicia Ng"
 #    role: grad-masters
@@ -218,7 +191,7 @@ ugrad-erica-fu:
 
 ugrad-baramee-bhakdibhumi:
     display_name: "Baramee (Bing) Bhakdibhumi"
-    role: ugrad
+    role: ugrad-alumni
     image: /img/people/baramee-bhakdibhumi.jpg
 
 ugrad-veronica-pimenova:
@@ -327,6 +300,63 @@ ugrad-adrian-munoz:
     display_name: Adrian Munoz
     role: ugrad
 
+ugrad-chen-hwang:
+    display_name: Chen Hwang
+    role: ugrad
+    image: /img/people/chen-hwang.jpg
+
+ugrad-jiayang-shi:
+    display_name: Jiayang (Jasmin) Shi
+    role: ugrad
+
+ugrad-michael-nguyen:
+    display_name: Michael Nguyen
+    role: ugrad
+
+ugrad-amanda-lu:
+    display_name: Amanda Lu
+    role: ugrad
+
+ugrad-annabelle-chow:
+    display_name: Annabelle Chow
+    role: ugrad
+
+
+
+
+collaborator-naba-rizvi:
+    display_name: "Naba Rizvi"
+    webpage: "https://nrizvi.github.io"
+    role: collab
+    bio: PhD Student
+    org: UC San Diego
+    image: /img/people/naba-rizvi.jpg
+
+collaborator-mauli-pandey:
+    display_name: "Mauli Pandey"
+    webpage: "https://pandeymauli.github.io/research/index.html"
+    role: collab
+    bio: Software Engineer
+    org: Google
+    image: /img/people/mauli-pandey.jpg
+       
+
+collaborator-karen-krainz-edison:
+    display_name: "Karen Krainz Edison"
+    role: collab
+    bio: Program Manager
+    org: Ohio State University
+    webpage: https://nisonger.osu.edu/staff/krainz-edison-karen/
+    image: /img/people/karen-krainz-edison.png
+
+
+collaborator-amy-tavares:
+    display_name: "Amy Tavares"
+    role: collab
+    bio: Neurodiversity Program Manager
+    org: Carnegie Mellon University
+    webpage: https://www.linkedin.com/in/amy-tavares-1620/
+    image: /img/people/amy-tavares.jpg
 
 
 collaborator-hala-annabi:
