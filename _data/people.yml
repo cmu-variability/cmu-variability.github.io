@@ -2,7 +2,7 @@ prof-begel:
     display_name: "Andrew Begel"
     webpage: "https://andrewbegel.com"
     github: abegel
-    image: /img/people/abegel.png
+    image: /img/people/abegel.jpg
     role: faculty
     org: "Software and Societal Systems Department"
     bio: Professor
@@ -62,7 +62,7 @@ grad-darren-butler:
     display_name: "Ren Butler"
     org: Human-Computer Interaction Institute
     role: grad-phd
-    website: "https://darrendbutler.github.io"
+    webpage: "https://darrendbutler.github.io"
     image: /img/people/ren-butler.png
 
 grad-morgan-evans:
