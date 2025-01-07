@@ -8,6 +8,7 @@ people:
   - collaborator-paige-rodeghero
   - collaborator-matthew-boyer
   - grad-siyun-wen
+  - grad-irene-choi
   
   
 layout: project

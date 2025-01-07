@@ -13,6 +13,8 @@ people:
   - ugrad-adam-bournes
   - ugrad-jiayang-shi
   - ugrad-chen-hwang
+  - ugrad-akeil-smith
+  - ugrad-yiyao-wang
   
 layout: project
 no-link: true

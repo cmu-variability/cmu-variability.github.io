@@ -11,6 +11,7 @@ people:
   - ugrad-annabelle-chow
   - ugrad-michael-nguyen
   - ugrad-amanda-lu
+  - ugrad-akeil-smith
 
 layout: project
 no-link: false

@@ -306,7 +306,7 @@ ugrad-chen-hwang:
     image: /img/people/chen-hwang.jpg
 
 ugrad-jiayang-shi:
-    display_name: Jiayang (Jasmin) Shi
+    display_name: Jiayang (Jasmine) Shi
     role: ugrad
 
 ugrad-michael-nguyen:
@@ -319,6 +319,18 @@ ugrad-amanda-lu:
 
 ugrad-annabelle-chow:
     display_name: Annabelle Chow
+    role: ugrad
+
+ugrad-irene-choi:
+    display_name: Won (Irene) Choi
+    role: ugrad
+
+ugrad-akeil-smith:
+    display_name: Akeil Smith
+    role: ugrad
+
+ugrad-yiyao-wang:
+    display_name: Yiyao Wang
     role: ugrad
 
 
