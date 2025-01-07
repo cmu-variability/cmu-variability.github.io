@@ -7,6 +7,12 @@ prof-begel:
     org: "Software and Societal Systems Department"
     bio: Professor
 
+postdoc-andrew-hundt:
+    display_name: "Andrew Hundt" 
+    role: postdoc 
+    org: Robotics Institute
+    webpage: "https://ahundt.github.io"
+    
 grad-jiwoong-jang:
     display_name: "JiWoong (Joon) Jang"
     webpage: "https://joonbug.me"

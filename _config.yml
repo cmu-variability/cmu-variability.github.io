@@ -35,14 +35,14 @@ permalink: /blog/:year/:month/:day/:title.html
 roles:
   - key: faculty
     name: Faculty
+  - key: postdoc
+    name: Postdocs
   - key: grad-phd
     name: PhD Students
   - key: grad-masters
     name: Masters Students
   - key: ugrad
     name: Undergraduate Students
-  - key: ugrad-alum
-    name: Past Undergraduate Students
   - key: collab
     name: Collaborators
   - key: grad-alumni
