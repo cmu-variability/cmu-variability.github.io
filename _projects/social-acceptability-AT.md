@@ -10,7 +10,6 @@ people:
   - grad-rebecca-jiang
   - grad-sri-lakshmi-pakhala
   - ugrad-alex-zhu
-  - ugrad-janise-kim
 
   
 layout: project
