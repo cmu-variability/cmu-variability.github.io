@@ -10,6 +10,9 @@ people:
   - collaborator-kathy-dow-burger
   - collaborator-jennifer-wessel
   - collaborator-elizabeth-redcay
+  - grad-morgan-evans
+  - grad-irene-choi
+ 
   
 layout: project
 no-link: true

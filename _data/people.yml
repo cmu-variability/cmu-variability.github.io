@@ -12,6 +12,7 @@ postdoc-andrew-hundt:
     role: postdoc 
     org: Robotics Institute
     webpage: "https://ahundt.github.io"
+    image: /img/people/andrew-hundt.jpg
     
 grad-jiwoong-jang:
     display_name: "JiWoong (Joon) Jang"
@@ -25,6 +26,7 @@ grad-gabrielle-ohlson:
     webpage: "https://edgygrandma.com/"
     role: grad-phd
     org: Robotics Institute
+    image: /img/people/gabrielle-ohlson.jpg
 
 grad-kaia-newman:
     display_name: "Kaia Newman"
@@ -74,7 +76,7 @@ grad-darren-butler:
 grad-morgan-evans:
     display_name: "Morgan Evans"
     org: Software and Societal Systems Department
-    role: grad-alumni
+    role: grad-masters
 
 
 grad-jinjin-du:
@@ -98,6 +100,11 @@ grad-siyun-wen:
     display_name: Siyun Wen
     role: grad-masters
 
+grad-irene-choi:
+    display_name: Won (Irene) Choi
+    role: grad-masters
+    image: /img/people/irene-choi.png
+
 #grad-alicia-ng:
 #    display_name: "Alicia Ng"
 #    role: grad-masters
@@ -108,7 +115,7 @@ grad-siyun-wen:
 
 grad-apolline-tardy:
     display_name: "Apolline Tardy"
-    role: grad-masters
+    role: grad-alumni
     image: /img/people/apolline-tardy.png
 
 ugrad-justin-zou:
@@ -208,13 +215,13 @@ ugrad-veronica-pimenova:
 
 ugrad-sofia-reyes-franco:
     display_name: "Sofia Reyes Franco"
-    role: ugrad
+    role: ugrad-alumni
     image: /img/people/sofia-reyes-franco.jpg
     webpage: https://sofiareyesf.github.io/personal/
 
 ugrad-janise-kim: 
     display_name: "Janise Kim"
-    role: ugrad
+    role: ugrad-alumni
 
 ugrad-meghana-tera:
     display_name: "Meghana Tera"
@@ -232,7 +239,7 @@ ugrad-wenjun-zhou:
 
 ugrad-emily-yu:
     display_name: "Emily Yu"
-    role: ugrad
+    role: ugrad-alumni
     image: /img/people/emily-yu.jpg
 
 ugrad-christina-trice:
@@ -252,7 +259,7 @@ ugrad-veronica-lin:
 
 ugrad-chris-lee:
     display_name: Chris Lee
-    role: ugrad
+    role: ugrad-alumni
     image: /img/people/chris-lee.jpg
 
 ugrad-octavius-tan:
@@ -315,21 +322,6 @@ ugrad-jiayang-shi:
     display_name: Jiayang (Jasmine) Shi
     role: ugrad
 
-ugrad-michael-nguyen:
-    display_name: Michael Nguyen
-    role: ugrad
-
-ugrad-amanda-lu:
-    display_name: Amanda Lu
-    role: ugrad
-
-ugrad-annabelle-chow:
-    display_name: Annabelle Chow
-    role: ugrad
-
-ugrad-irene-choi:
-    display_name: Won (Irene) Choi
-    role: ugrad
 
 ugrad-akeil-smith:
     display_name: Akeil Smith
@@ -423,7 +415,7 @@ collaborator-matthew-boyer:
    bio: Research Associate Professor
    org: Clemson University
    webpage: "https://www.clemson.edu/cecas/departments/ese/people/esed-faculty/boyer.html"
-   image: "https://www.clemson.edu/cecas/prospective-students/undergraduate/images/spectra/team/matthew-boyer.jpg"
+   image: /img/people/matthew-boyer.jpg
 
 collaborator-steven-isaacson:
     display_name: "Steven Isaacson"
@@ -432,3 +424,28 @@ collaborator-steven-isaacson:
     org: National Institute of Mental Health (NIMH)
     webpage: https://www.linkedin.com/in/steven-a-isaacson-lmsw-0ba28586/
     image: /img/people/steven-isaacson.jpg
+
+collaborator-somayeh-asadi:
+    display_name: Somayeh Asadi
+    role: collab
+    bio: Associate Professor
+    org: University of Virginia
+    webpage: "https://engineering.virginia.edu/faculty/somayeh-asadi"
+    image: /img/people/somayeh-asadi.webp
+
+collaborator-rick-kubina:
+    display_name: Richard Kubina, Jr.
+    role: collab
+    bio: Professor
+    org: Penn State University
+    webpage: "https://ed.psu.edu/directory/dr-richard-kubina-jr"
+    image: /img/people/rick-kubina.jpg
+
+collaborator-taniya-mishra:
+    display_name: Taniya Mishra
+    role: collab
+    bio: Founder and CEO
+    org: SureStart
+    webpage: "https://mysurestart.com/about"
+    image: /img/people/taniya-mishra.jpg
+

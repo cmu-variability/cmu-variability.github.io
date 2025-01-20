@@ -8,14 +8,10 @@ people:
   - ugrad-chris-lee
   - ugrad-sofia-reyes-franco
   - ugrad-emily-yu
-  - ugrad-annabelle-chow
-  - ugrad-michael-nguyen
-  - ugrad-amanda-lu
-  - ugrad-akeil-smith
 
 layout: project
 no-link: false
-last-updated: 2023-09-17
+last-updated: 2025-01-20
 active: true
 ---
 
