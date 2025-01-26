@@ -54,6 +54,6 @@ active: true
 
 ## Interested?
 
-- **How to Apply:** Email **vpim [at] cmu [dot] edu** with interest & questions. You do not need any research experience to join!
+- **How to Apply:** Email **vpim [at] cmu [dot] edu** with interest & questions. We are looking for students with AI development experience.
 
 ---
