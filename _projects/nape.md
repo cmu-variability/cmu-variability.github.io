@@ -7,6 +7,7 @@ people:
   - ugrad-veronica-pimenova
   - ugrad-chris-lee
   - ugrad-emily-yu
+  - ugrad-baramee-bhakdibhumi
 
 layout: project
 no-link: false
@@ -40,7 +41,7 @@ active: true
 
 - Performance metrics included errors, hesitations, and task completion time.
 
-- **Key Findings:** Segmented learning improves comprehension and reduces cognitive overload among ADHD participants.
+- **Key Findings:** Segmented learning improves comprehension and reduces cognitive overload among ADHD participants. 
 
 ---
 
@@ -52,8 +53,10 @@ active: true
 
 ---
 
-## Interested?
+## Want to Learn More?
 
-- **How to Apply:** Email **vpim [at] cmu [dot] edu** with interest & questions. We are looking for students with AI development experience.
+- **Questions:** Email **vpim [at] cmu [dot] edu** with interest/questions, or if you'd like to read our paper.
+  
+- We are looking for CMU students with AI development experience for fall 2025 or later.
 
 ---
