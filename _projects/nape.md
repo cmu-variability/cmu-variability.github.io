@@ -6,7 +6,6 @@ description: |
 people: 
   - ugrad-veronica-pimenova
   - ugrad-chris-lee
-  - ugrad-sofia-reyes-franco
   - ugrad-emily-yu
 
 layout: project
@@ -54,8 +53,6 @@ active: true
 ---
 
 ## Interested?
-
-- We are recruiting **undergraduates at CMU** to join this project in **Spring 2025** (units available).
 
 - **How to Apply:** Email **vpim [at] cmu [dot] edu** with interest & questions. You do not need any research experience to join!
 
