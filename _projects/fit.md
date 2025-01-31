@@ -9,7 +9,7 @@ description: |
    
 people: 
 
-  - grad-apolline-tardy
+  - grad-mathilda-chen
   - ugrad-adam-bournes
   - ugrad-jiayang-shi
   - ugrad-chen-hwang

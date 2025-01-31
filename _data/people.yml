@@ -105,6 +105,10 @@ grad-irene-choi:
     role: grad-masters
     image: /img/people/irene-choi.png
 
+grad-mathilda-chen:
+    display_name: "Mathilda Chen"
+    role: grad-masters
+
 #grad-alicia-ng:
 #    display_name: "Alicia Ng"
 #    role: grad-masters
