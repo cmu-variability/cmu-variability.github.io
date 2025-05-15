@@ -174,6 +174,10 @@ ugrad-sidney-ozcan:
     display_name: "Sidney Ozcan"
     role: ugrad-alumni
 
+ugrad-parishi-jain:
+    display_name: "Parishi Jain"
+    role:ugrad
+
 ugrad-aditya-ganesh:
     display_name: "Aditya (Adit) Ganesh"
     webpage: "https://www.linkedin.com/in/aditya-ganesh-b3979422b/"
