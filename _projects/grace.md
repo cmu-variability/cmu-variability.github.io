@@ -26,12 +26,14 @@ active: true
 ---
 
 ## Background
-- Sighted people often rely on visual cues (e.g., pointing/using spatial references) to indicate areas of interest during screen-based discussions. However, blind and low vision individuals cannot perceive these references, leading to difficulties in shared attention. The GRACE project (Gaze and Gesture Recognition for Accessible Communication and Engagement) addresses this by developing a system that uses gaze and gesture data to infer which screen object is being referenced. Our preliminary model can identify these regions of interest. We are running a study where participants will verbally describe a series of screen layouts while their gaze is tracked for 90-minute sessions. The goal is to collect gaze/gesture data to further train our model to detect interface elements and their locations. We analyze gaze data/language patterns, refine model logic, and evaluate its output. This will improve GRACE’s ability to produce clear, screen-reader-compatible descriptions and enable inclusive design conversations. 
+
+- **Challenge:** Sighted people often rely on visual cues (e.g., pointing/using spatial references) to indicate areas of interest during screen-based discussions. However, blind and low-vision individuals cannot perceive these references, leading to difficulties in shared attention. The GRACE project (Gaze and Gesture Recognition for Accessible Communication and Engagement) addresses this by developing a system that uses gaze and gesture data to infer which screen object is being referenced. 
 ---
 
-## Solution
-- GRACE integrates computer vision, natural language processing, and assistive output to translate non-verbal visual cues into accessible descriptions. When a user gestures or gazes at part of the screen during a conversation, our system captures that input and infers which interface element is being referenced.
-- Using a custom-built pipeline, GRACE maps gestures and gaze points to screen coordinates, identifies nearby objects (e.g., buttons, text boxes, icons), and generates textual references.
+## Model
+
+- **Solution:** GRACE integrates computer vision, natural language processing, and assistive output to translate non-verbal visual cues into accessible descriptions. When a user gestures or gazes at part of the screen during a conversation, our system captures that input and infers which interface element is being referenced.
+
 ---
 
 ## Want to learn more?
