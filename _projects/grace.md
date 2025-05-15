@@ -13,7 +13,7 @@ people:
 video: "https://www.youtube.com/embed/JHdtWCqQhik"
 
 layout: project
-no-link: true
+no-link: false
 last-updated: 2023-08-08
 active: true
    
