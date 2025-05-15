@@ -7,6 +7,7 @@ description:
       
 people: 
    - grad-eryn-ma
+   - ugrad-veronica-pimenova
 
   
 video: "https://www.youtube.com/embed/JHdtWCqQhik"
@@ -17,3 +18,13 @@ last-updated: 2023-08-08
 active: true
    
 ---
+
+**Gesture and Gaze Recognition for Accessible Collaborative Environments (GRACE)**
+
+--
+
+## Background
+
+--
+
+## Solution
