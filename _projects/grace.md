@@ -24,23 +24,21 @@ active: true
 **Gesture and Gaze Recognition for Accessible Collaborative Environments (GRACE)**
 
 ---
-
 ## Background
 
-**Challenge:** 
-- Sighted people often rely on visual cues (e.g., pointing/using spatial references) to indicate areas of interest during screen-based discussions. However, blind and low-vision individuals cannot perceive these references, leading to difficulties in shared attention. The GRACE project (Gaze and Gesture Recognition for Accessible Communication and Engagement) addresses this by developing a system that uses gaze and gesture data to infer which screen object is being referenced. 
+**Challenge:** Sighted people often rely on visual cues (e.g., pointing/using spatial references) to indicate areas of interest during screen-based discussions. However, blind and low-vision individuals cannot perceive these references, leading to difficulties in shared attention. The GRACE project (Gaze and Gesture Recognition for Accessible Communication and Engagement) addresses this by developing a system that uses gaze and gesture data to infer which screen object is being referenced.
+
 ---
 
-## Model
+## Solution
 
-**Solution:** 
-- GRACE integrates computer vision, natural language processing, and assistive output to translate non-verbal visual cues into accessible descriptions. When a user gestures or gazes at part of the screen during a conversation, our system captures that input and infers which interface element is being referenced.
+**Solution:** GRACE integrates computer vision, natural language processing, and assistive output to translate non-verbal visual cues into accessible descriptions. When a user gestures or gazes at part of the screen during a conversation, our system captures that input and infers which interface element is being referenced.
 
 ---
 
 ## Want to learn more?
 
-- **Questions:** Email Eryn Ma with questions and interest.
+**Questions:** Email Eryn Ma with questions and interest.
 
 ---
 
