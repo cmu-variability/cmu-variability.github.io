@@ -21,10 +21,21 @@ active: true
 
 **Gesture and Gaze Recognition for Accessible Collaborative Environments (GRACE)**
 
---
+---
 
 ## Background
 
---
+---
 
 ## Solution
+
+---
+
+## Want to learn more?
+
+- **Questions:** Email Eryn Ma with questions and interest.
+- Notes here.
+
+---
+
+
