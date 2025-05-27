@@ -340,8 +340,10 @@ ugrad-yiyao-wang:
     display_name: Yiyao Wang
     role: ugrad
 
-
-
+ugrad-mia-yancey:
+    display_name: Mia Yancey
+    role: ugrad
+    org: Clemson University
 
 collaborator-naba-rizvi:
     display_name: "Naba Rizvi"

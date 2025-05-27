@@ -12,6 +12,7 @@ people:
   - collaborator-taniya-mishra
   - grad-jiwoon-jang
   - grad-ren-butler
+  - ugrad-mia-yancey
   
 layout: project
 last-updated: 2025-01-20
