@@ -344,6 +344,7 @@ ugrad-mia-yancey:
     display_name: Mia Yancey
     role: ugrad
     org: Clemson University
+    image: /img/people/mia-yancey.png
 
 collaborator-naba-rizvi:
     display_name: "Naba Rizvi"
