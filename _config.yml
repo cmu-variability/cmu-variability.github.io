@@ -45,6 +45,8 @@ roles:
     name: Undergraduate Students
   - key: collab
     name: Collaborators
+  - key: postdoc-alumni
+    name: Postdoc Alumni
   - key: grad-alumni
     name: Graduate Student Alumni
   - key: ugrad-alumni

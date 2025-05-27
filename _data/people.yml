@@ -9,7 +9,7 @@ prof-begel:
 
 postdoc-andrew-hundt:
     display_name: "Andrew Hundt" 
-    role: postdoc 
+    role: postdoc-alumni 
     org: Robotics Institute
     webpage: "https://ahundt.github.io"
     image: /img/people/andrew-hundt.jpg
@@ -94,11 +94,11 @@ grad-sri-lakshmi-pakhala:
 
 grad-rebecca-jiang:
     display_name: "Rebecca Jiang"
-    role: grad-masters
+    role: grad-alumni
 
 grad-siyun-wen:
     display_name: Siyun Wen
-    role: grad-masters
+    role: grad-alumni
 
 grad-irene-choi:
     display_name: Won (Irene) Choi
@@ -107,7 +107,7 @@ grad-irene-choi:
 
 grad-mathilda-chen:
     display_name: "Mathilda Chen"
-    role: grad-masters
+    role: grad-alumni
     image: /img/people/mathilda-chen.jpg
 
 #grad-alicia-ng:
@@ -137,7 +137,7 @@ ugrad-raymond-welgosh:
 
 ugrad-emily-amspoker:
     display_name: "Emily Amspoker"
-    role: ugrad
+    role: ugrad-alumni
     image: /img/people/emily-amspoker.jpg
 
 ugrad-justin-hsieh:
@@ -167,7 +167,7 @@ ugrad-mahith-edula:
 
 ugrad-adam-bournes:
     display_name: "Adam Bournes"
-    role: ugrad
+    role: ugrad-alumni
     image: /img/people/adam-bournes.jpg
 
 ugrad-sidney-ozcan:
@@ -300,31 +300,31 @@ ugrad-emma-enkhbold:
 
 ugrad-zachary-miller:
     display_name: Zachary Miller
-    role: ugrad
+    role: ugrad-alumni
     org: University of Pittsburgh
     webpage: "https://www.reaact.pitt.edu/people/zachary-miller"
     image: /img/people/zachary-miller.jpg
 
 ugrad-alex-zhu:
     display_name: Alex Zhu
-    role: ugrad
+    role: ugrad-alumni
     org: Information Systems
 
 ugrad-hermosa-huang:
     display_name: Hermosa Huang
-    role: ugrad
+    role: ugrad-alumni
 
 ugrad-sonya-karnataki:
     display_name: Sonya Karnataki
-    role: ugrad
+    role: ugrad-alumni
 
 ugrad-adrian-munoz:
     display_name: Adrian Munoz
-    role: ugrad
+    role: ugrad-alumni
 
 ugrad-chen-hwang:
     display_name: Chen Hwang
-    role: ugrad
+    role: ugrad-alumni
     image: /img/people/chen-hwang.jpg
 
 ugrad-jiayang-shi:
@@ -334,11 +334,11 @@ ugrad-jiayang-shi:
 
 ugrad-akeil-smith:
     display_name: Akeil Smith
-    role: ugrad
+    role: ugrad-alumni
 
 ugrad-yiyao-wang:
     display_name: Yiyao Wang
-    role: ugrad
+    role: ugrad-alumni
 
 ugrad-mia-yancey:
     display_name: Mia Yancey
