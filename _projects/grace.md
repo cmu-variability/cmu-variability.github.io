@@ -32,7 +32,7 @@ active: true
 
 ## Solution
 
-**Solution:** GRACE integrates computer vision, natural language processing, and assistive output to translate non-verbal visual cues into accessible descriptions. When a user gestures or gazes at part of the screen during a conversation, our system captures that input and infers which interface element is being referenced.
+**Solution:** GRACE aims to create tools that translate non-verbal visual cues into accessible descriptions. When a user gestures or gazes at part of the screen during a conversation, our system captures that input and infers which interface element is being referenced.
 
 ---
 
