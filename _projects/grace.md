@@ -7,7 +7,6 @@ description:
       
 people: 
    - grad-eryn-ma
-   - ugrad-veronica-pimenova
    - ugrad-jiayang-shi
    - ugrad-parishi-jain
 

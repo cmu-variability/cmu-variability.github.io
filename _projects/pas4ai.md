@@ -10,9 +10,9 @@ people:
   - collaborator-rick-kubina
   - collaborator-matthew-boyer
   - collaborator-taniya-mishra
-  - grad-jiwoon-jang
   - grad-ren-butler
-  - ugrad-mia-yancey
+  - grad-jiwoon-jang
+
   
 layout: project
 last-updated: 2025-01-20

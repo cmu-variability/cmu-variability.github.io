@@ -7,9 +7,7 @@ description: |
  
 people:
   - grad-jiwoong-jang
-  - grad-rebecca-jiang
   - grad-sri-lakshmi-pakhala
-  - ugrad-alex-zhu
 
   
 layout: project

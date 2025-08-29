@@ -218,7 +218,7 @@ ugrad-baramee-bhakdibhumi:
 
 ugrad-veronica-pimenova:
     display_name: "Veronica Pimenova"
-    role: ugrad
+    role: ugrad-alumni
     image: /img/people/veronica-pimenova.jpg
     webpage: https://veronicapim.github.io/
 
@@ -342,7 +342,7 @@ ugrad-yiyao-wang:
 
 ugrad-mia-yancey:
     display_name: Mia Yancey
-    role: ugrad
+    role: ugrad-alumni
     org: Clemson University
     image: /img/people/mia-yancey.png
 
@@ -415,7 +415,7 @@ collaborator-elizabeth-redcay:
 
 collaborator-paige-rodeghero:
    display_name: "Paige Rodeghero"
-   role: collab
+   role: collab-alumni
    bio: Assistant Professor
    org: Clemson University
    webpage: "https://paigerodeghero.com"

@@ -8,12 +8,6 @@ description: |
    This year, we are running two projects. The first is to build a prototype video calling platform built on top of WebRTC that can facilitate our studies of autistic/non-autistic 1:1 conversations. The second is to analyze a corpus of 1:1 video conversations for critical moments that lead to problems in the conversation and subsequent conversational repair. We will develop a set of metrics to identify good and bad moments in conversations.   
    
 people: 
-
-  - grad-mathilda-chen
-  - ugrad-adam-bournes
-  - ugrad-jiayang-shi
-  - ugrad-chen-hwang
-  - ugrad-yiyao-wang
   
 layout: project
 no-link: true

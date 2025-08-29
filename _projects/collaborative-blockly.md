@@ -6,8 +6,6 @@ description: |
 
 people: 
   - collaborator-matthew-boyer
-  - grad-siyun-wen
-  - ugrad-akeil-smith  
   
 layout: project
 last-updated: 2024-12-26

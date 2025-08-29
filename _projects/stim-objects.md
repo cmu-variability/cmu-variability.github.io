@@ -8,7 +8,6 @@ description: |
 people:
   - grad-gabrielle-ohlson
   - postdoc-andrew-hundt
-  - ugrad-emily-amspoker
 
   
 layout: project
