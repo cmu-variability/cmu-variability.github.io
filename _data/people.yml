@@ -105,6 +105,12 @@ grad-irene-choi:
     role: grad-masters
     image: /img/people/irene-choi.png
 
+grad-aritra-dutta:
+    display_name: Aritra Dutta
+    role: grad-alumni
+    webpage: "https://www.aritradutta04.com"
+    image: /img/people/aritra-dutta.jpeg
+
 grad-mathilda-chen:
     display_name: "Mathilda Chen"
     role: grad-alumni
