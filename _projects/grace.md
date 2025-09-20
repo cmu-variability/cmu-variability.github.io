@@ -9,6 +9,7 @@ people:
    - grad-eryn-ma
    - ugrad-jiayang-shi
    - ugrad-parishi-jain
+   - grad-aritra-dutta
 
   
 video: "https://www.youtube.com/embed/JHdtWCqQhik"
