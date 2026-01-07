@@ -5,6 +5,7 @@ description: |
   The NAPE project aims to improve the accessibility of educational materials by adapting them to the cognitive styles of individuals, including those with ADHD, dyslexia, and autism. It seeks to create an inclusive learning environment by removing traditional learning barriers.
 
 people: 
+  ugrad-allison-xia
 
 
 layout: project

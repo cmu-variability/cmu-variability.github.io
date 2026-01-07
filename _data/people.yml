@@ -337,6 +337,10 @@ ugrad-jiayang-shi:
     display_name: Jiayang (Jasmine) Shi
     role: ugrad
 
+ugrad-allison-xia:
+    display_name: Allison Xia
+    role: ugrad
+    image: /img/people/allison-xia.jpg
 
 ugrad-akeil-smith:
     display_name: Akeil Smith
