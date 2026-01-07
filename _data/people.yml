@@ -76,7 +76,7 @@ grad-darren-butler:
 grad-morgan-evans:
     display_name: "Morgan Evans"
     org: Software and Societal Systems Department
-    role: grad-phd
+    role: grad-alumni
 
 
 grad-jinjin-du:
@@ -90,7 +90,7 @@ grad-qiaoqiao-ma:
 
 grad-sri-lakshmi-pakhala:
     display_name: "Sri Lakshmi Pakhala"
-    role: grad-masters
+    role: grad-alumni
 
 grad-rebecca-jiang:
     display_name: "Rebecca Jiang"
@@ -102,7 +102,7 @@ grad-siyun-wen:
 
 grad-irene-choi:
     display_name: Won (Irene) Choi
-    role: grad-masters
+    role: grad-alumni
     image: /img/people/irene-choi.png
 
 grad-aritra-dutta:
@@ -356,6 +356,40 @@ ugrad-mia-yancey:
     org: Clemson University
     image: /img/people/mia-yancey.png
 
+ugrad-dylan-yang:
+    display_name: Dylan Yang
+    role: ugrad
+
+ugrad-isha-swaminathan:
+    display_name: Isha Swaminathan
+    role: ugrad
+
+ugrad-luciana-requena:
+    display_name: Luciana Requena
+    role: ugrad
+
+ugrad-wunwan-boonsitanara:
+    display_name: Wunwan Boonsitanara
+    role: ugrad
+
+
+ugrad-miriam-brody:
+    display_name: Miriam Brody
+    role: ugrad
+    org: Pomona College
+
+ugrad-reagan-keeney:
+    display_name: Reagan Keeney
+    role: ugrad
+    org: University of Massachusetts at Amherst
+
+ugrad-marie-shvakel:
+    display_name: Marie Shvakel
+    role: ugrad
+    org: University of Massachusetts at Amherst
+
+
+
 collaborator-naba-rizvi:
     display_name: "Naba Rizvi"
     webpage: "https://nrizvi.github.io"
@@ -442,8 +476,8 @@ collaborator-matthew-boyer:
 collaborator-steven-isaacson:
     display_name: "Steven Isaacson"
     role: collab
-    bio: Autism Policy Analyst
-    org: National Institute of Mental Health (NIMH)
+    bio: Disability Strategist
+    org: Sunflower Like Strategies
     webpage: https://www.linkedin.com/in/steven-a-isaacson-lmsw-0ba28586/
     image: /img/people/steven-isaacson.jpg
 
@@ -470,4 +504,28 @@ collaborator-taniya-mishra:
     org: SureStart
     webpage: "https://mysurestart.com/about"
     image: /img/people/taniya-mishra.jpg
+
+collaborator-claire-le-goues:
+    display_name: Claire Le Goues
+    role: collab
+    bio: Professor
+    org: Carnegie Mellon University
+    webpage: "https://www.clairelegoues.com"
+    image: /img/people/claire-le-goues.jpg
+
+collaborator-yuriy-brun:
+    display_name: Yuriy Brun
+    role: collab
+    bio: Professor
+    org: University of Massachusetts at Amherst
+    webpage: "https://people.cs.umass.edu/~brun/"
+    image: /img/people/yuriy-brun.jpg
+
+collaborator-madeline-endres:
+    display_name: Madeline Endres
+    role: collab
+    bio: Assistant Professor
+    org: University of Massachusetts at Amherst
+    webpage: "https://people.cs.umass.edu/~mendres/"
+    image: /img/people/madeline-endres.jpg
 

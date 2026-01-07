@@ -12,6 +12,8 @@ people:
   - collaborator-taniya-mishra
   - grad-ren-butler
   - grad-jiwoon-jang
+  - ugrad-dylan-yang
+  - ugrad-luciana-requena
 
   
 layout: project
