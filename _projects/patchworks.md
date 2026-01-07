@@ -7,6 +7,8 @@ description: |
   
 people:
   - grad-kaia-newman
+  - collaborator-claire-le-goues
+  - collaborator-yuriy-brun
   
 layout: project
 no-link: true
