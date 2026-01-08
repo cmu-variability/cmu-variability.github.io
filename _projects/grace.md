@@ -10,6 +10,7 @@ people:
    - ugrad-jiayang-shi
    - ugrad-parishi-jain
    - ugrad-isha-swaminathan
+   - ugrad-dylan-yang
 
   
 video: "https://www.youtube.com/embed/JHdtWCqQhik"
