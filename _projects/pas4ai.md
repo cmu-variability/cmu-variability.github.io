@@ -11,7 +11,6 @@ people:
   - collaborator-matthew-boyer
   - collaborator-taniya-mishra
   - grad-ren-butler
-  - grad-jiwoon-jang
   - ugrad-luciana-requena
 
   

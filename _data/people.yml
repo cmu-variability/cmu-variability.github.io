@@ -381,7 +381,7 @@ ugrad-miriam-brody:
 
 ugrad-reagan-keeney:
     display_name: Reagan Keeney
-    role: ugrad
+    role: grad-phd
     org: University of Massachusetts at Amherst
 
 ugrad-marie-shvakel:
@@ -389,6 +389,10 @@ ugrad-marie-shvakel:
     role: ugrad
     org: University of Massachusetts at Amherst
 
+ugrad-christine-truong:
+    display_name: Christine Truong
+    role: ugrad
+    org: Carnegie Mellon University
 
 
 collaborator-naba-rizvi:

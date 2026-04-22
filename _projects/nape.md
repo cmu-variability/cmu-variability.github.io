@@ -6,11 +6,13 @@ description: |
 
 people: 
   ugrad-allison-xia
+  ugrad-christine-truong
+  ugrad-veronica-pimenova
 
 
 layout: project
 no-link: false
-last-updated: 2025-01-20
+last-updated: 2026-04-21
 active: true
 ---
 
