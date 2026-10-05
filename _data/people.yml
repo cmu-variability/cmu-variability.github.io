@@ -387,6 +387,7 @@ ugrad-tammy-pham:
     display_name: "Tammy Pham"
     role: ugrad
     org: "Smith College"
+    webpage: https://linkedin.com/in/tam-tammy-pham
     image: /img/people/tammy-pham.jpg
 
 ugrad-miriam-brody:
