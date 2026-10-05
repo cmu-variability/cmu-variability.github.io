@@ -409,6 +409,10 @@ ugrad-christine-truong:
     role: ugrad-alumni
     org: Carnegie Mellon University
 
+ugrad-simran-agarwal:
+    display_name: Simran Agarwal
+    role: ugrad
+    org: Carnegie Mellon University
 
 collaborator-naba-rizvi:
     display_name: "Naba Rizvi"
