@@ -340,7 +340,7 @@ ugrad-chen-hwang:
 
 ugrad-jiayang-shi:
     display_name: "Jiayang (Jasmine) Shi"
-    role: ugrad
+    role: ugrad-alumni
     image: /img/people/jasmine-shi.jpg
 
 ugrad-allison-xia:
@@ -412,8 +412,7 @@ ugrad-christine-truong:
 ugrad-simran-agarwal:
     display_name: Simran Agarwal
     role: ugrad
-    org: Carnegie Mellon University
-    
+
 ugrad-adrian-zhuang:
     display_name: "Adrian Zhuang"
     role: ugrad
