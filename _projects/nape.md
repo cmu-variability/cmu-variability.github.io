@@ -13,7 +13,7 @@ people:
 layout: project
 no-link: false
 last-updated: 2026-04-21
-active: true
+active: false
 ---
 
 **Neurodiversity-Aware Platform for Education (NAPE)** aims to enhance comprehension and retention by tailoring educational materials to diverse cognitive styles, making learning more accessible to all.
