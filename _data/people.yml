@@ -49,6 +49,11 @@ grad-eryn-ma:
     org: Software and Societal Systems Department
     image: /img/people/eryn-ma.jpg
 
+grad-jule-jensen:
+    display_name: "Jule Jensen"
+    role: grad-phd
+    org: Technical University of Bremen
+
 grad-wenxin-ju:
     display_name: "Wenxin (Wendy) Ju"
     role: grad-alumni
@@ -85,7 +90,7 @@ grad-jinjin-du:
 
 grad-qiaoqiao-ma:
     display_name: "Qiaoqiao Ma"
-    role: grad-masters
+    role: grad-alumni
     image: /img/people/qiaoqiao-ma.png
 
 grad-sri-lakshmi-pakhala:
@@ -182,7 +187,7 @@ ugrad-sidney-ozcan:
 
 ugrad-parishi-jain:
     display_name: "Parishi Jain"
-    role: ugrad
+    role: ugrad-alumni
 
 ugrad-aditya-ganesh:
     display_name: "Aditya (Adit) Ganesh"
@@ -359,24 +364,34 @@ ugrad-mia-yancey:
 
 ugrad-dylan-yang:
     display_name: Dylan Yang
-    role: ugrad
+    role: ugrad-alumni
 
 ugrad-isha-swaminathan:
     display_name: Isha Swaminathan
-    role: ugrad
+    role: ugrad-alumni
 
 ugrad-luciana-requena:
     display_name: Luciana Requena
-    role: ugrad
+    role: ugrad-alumni
 
 ugrad-wunwan-boonsitanara:
     display_name: Wunwan Boonsitanara
-    role: ugrad
+    role: ugrad-alumni
 
+ugrad-meera-rajendran:
+    display_name: Meera Rajendran
+    role: ugrad
+    image: /img/people/meera-rajendran.jpg
+
+ugrad-tammy-pham:
+    display_name: Tammy Pham
+    role: ugrad
+    org: Smith College
+    image: /img/people/tammy-pham.jpg
 
 ugrad-miriam-brody:
     display_name: Miriam Brody
-    role: ugrad
+    role: ugrad-alumni
     org: Pomona College
 
 ugrad-reagan-keeney:
@@ -386,12 +401,12 @@ ugrad-reagan-keeney:
 
 ugrad-marie-shvakel:
     display_name: Marie Shvakel
-    role: grad-masters
+    role: grad-alumni
     org: University of Massachusetts at Amherst
 
 ugrad-christine-truong:
     display_name: Christine Truong
-    role: ugrad
+    role: ugrad-alumni
     org: Carnegie Mellon University
 
 
