@@ -7,9 +7,9 @@ description: |
 
  
 people:
-  - grad-ren-butler
+  - grad-darren-butler
   - ugrad-tammy-pham
-  - ugrad-Meera-Rajendran
+  - ugrad-meera-rajendran
   - ugrad-adrian-zhuang
 
   
