@@ -5,7 +5,7 @@ description:
    Coming Soon!
       
 people: 
-   - grad-joon-jang
+   - grad-jiwoong-jang
    - ugrad-allison-xia
    - ugrad-simran-agarwal
    
