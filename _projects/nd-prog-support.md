@@ -14,7 +14,7 @@ people:
 
   
 layout: project
-last-updated: 2025-01-20
+last-updated: 2026-10-05
 no-link: true
 active: true
 
