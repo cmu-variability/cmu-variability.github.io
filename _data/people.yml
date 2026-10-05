@@ -334,68 +334,68 @@ ugrad-adrian-munoz:
     role: ugrad-alumni
 
 ugrad-chen-hwang:
-    display_name: Chen Hwang
+    display_name: "Chen Hwang"
     role: ugrad-alumni
     image: /img/people/chen-hwang.jpg
 
 ugrad-jiayang-shi:
-    display_name: Jiayang (Jasmine) Shi
+    display_name: "Jiayang (Jasmine) Shi"
     role: ugrad
     image: /img/people/jasmine-shi.jpg
 
 ugrad-allison-xia:
-    display_name: Allison Xia
+    display_name: "Allison Xia"
     role: ugrad
     image: /img/people/allison-xia.jpg
 
 ugrad-akeil-smith:
-    display_name: Akeil Smith
+    display_name: "Akeil Smith"
     role: ugrad-alumni
 
 ugrad-yiyao-wang:
-    display_name: Yiyao Wang
+    display_name: "Yiyao Wang"
     role: ugrad-alumni
 
 ugrad-mia-yancey:
-    display_name: Mia Yancey
+    display_name: "Mia Yancey"
     role: ugrad-alumni
     org: Clemson University
     image: /img/people/mia-yancey.png
 
 ugrad-dylan-yang:
-    display_name: Dylan Yang
+    display_name: "Dylan Yang"
     role: ugrad-alumni
 
 ugrad-isha-swaminathan:
-    display_name: Isha Swaminathan
+    display_name: "Isha Swaminathan"
     role: ugrad-alumni
 
 ugrad-luciana-requena:
-    display_name: Luciana Requena
+    display_name: "Luciana Requena"
     role: ugrad-alumni
 
 ugrad-wunwan-boonsitanara:
-    display_name: Wunwan Boonsitanara
+    display_name: "Wunwan Boonsitanara"
     role: ugrad-alumni
 
 ugrad-meera-rajendran:
-    display_name: Meera Rajendran
+    display_name: "Meera Rajendran"
     role: ugrad
     image: /img/people/meera-rajendran.jpg
 
 ugrad-tammy-pham:
-    display_name: Tammy Pham
+    display_name: "Tammy Pham"
     role: ugrad
-    org: Smith College
+    org: "Smith College"
     image: /img/people/tammy-pham.jpg
 
 ugrad-miriam-brody:
-    display_name: Miriam Brody
+    display_name: "Miriam Brody"
     role: ugrad-alumni
     org: Pomona College
 
 ugrad-reagan-keeney:
-    display_name: Reagan Keeney
+    display_name: "Reagan Keeney"
     role: grad-phd
     org: University of Massachusetts at Amherst
 
@@ -405,9 +405,15 @@ ugrad-marie-shvakel:
     org: University of Massachusetts at Amherst
 
 ugrad-christine-truong:
-    display_name: Christine Truong
+    display_name: "Christine Truong"
     role: ugrad-alumni
     org: Carnegie Mellon University
+
+ugrad-adrian-zhuang:
+    display_name: "Adrian Zhuang"
+    role: ugrad
+    webpage: "https://linkedin.com/in/adrian-zhuang-b48951233"
+    image: /img/people/adrian-zhuang.png
 
 
 collaborator-naba-rizvi:
