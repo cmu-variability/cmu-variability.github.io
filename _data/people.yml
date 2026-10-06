@@ -1,3 +1,5 @@
+#Professor
+
 prof-begel:
     display_name: "Andrew Begel"
     webpage: "https://andrewbegel.com"
@@ -7,13 +9,17 @@ prof-begel:
     org: "Software and Societal Systems Department"
     bio: Professor
 
+#PostDoc
+
 postdoc-andrew-hundt:
     display_name: "Andrew Hundt" 
     role: postdoc-alumni 
     org: Robotics Institute
     webpage: "https://ahundt.github.io"
     image: /img/people/andrew-hundt.jpg
-    
+
+#PhD Students
+
 grad-jiwoong-jang:
     display_name: "JiWoong (Joon) Jang"
     webpage: "https://joonbug.me"
@@ -35,12 +41,13 @@ grad-kaia-newman:
     org: Software and Societal Systems Department
     image: /img/people/kaia-newman.jpg
 
-grad-simon-chu:
-    display_name: "Simon Chu"
-    webpage: "http://simonchu.org"
-    role: grad-alumni
-    org: Software and Societal Systems Department
-    image: /img/people/simon-chu.png
+grad-darren-butler:
+    display_name: "Ren Butler"
+    org: Human-Computer Interaction Institute
+    role: grad-phd
+    webpage: "https://darrendbutler.github.io"
+    image: /img/people/ren-butler.png
+
 
 grad-eryn-ma:
     display_name: "Eryn Ma"
@@ -54,85 +61,103 @@ grad-jule-jensen:
     role: grad-phd
     org: Technical University of Bremen
 
-grad-wenxin-ju:
-    display_name: "Wenxin (Wendy) Ju"
-    role: grad-alumni
-
-grad-alana-rogers:
-    display_name: "Alana Rogers"
-    role: grad-alumni
-
-grad-manvi-gupta:
-    display_name: "Manvi Gupta"
-    role: grad-alumni
-
-grad-mingzhe-li:
-    display_name: "Mingzhe (Vera) Li"
-    role: grad-alumni
-    image: /img/people/vera-li.jpg
-
-grad-darren-butler:
-    display_name: "Ren Butler"
-    org: Human-Computer Interaction Institute
-    role: grad-phd
-    webpage: "https://darrendbutler.github.io"
-    image: /img/people/ren-butler.png
-
 grad-morgan-evans:
     display_name: "Morgan Evans"
     org: Software and Societal Systems Department
-    role: grad-alumni
+    role: phd-alumni
+
+grad-reagan-keeney:
+    display_name: "Reagan Keeney"
+    role: grad-phd
+    org: University of Massachusetts at Amherst
+
+grad-simon-chu:
+    display_name: "Simon Chu"
+    webpage: "http://simonchu.org"
+    role: masters-alumni
+    org: Software and Societal Systems Department
+    image: /img/people/simon-chu.png
+
+#Masters
+
+grad-wenxin-ju:
+    display_name: "Wenxin (Wendy) Ju"
+    role: masters-alumni
+
+grad-alana-rogers:
+    display_name: "Alana Rogers"
+    role: masters-alumni
+
+grad-manvi-gupta:
+    display_name: "Manvi Gupta"
+    role: masters-alumni
+
+grad-mingzhe-li:
+    display_name: "Mingzhe (Vera) Li"
+    role: masters-alumni
+    image: /img/people/vera-li.jpg
 
 
 grad-jinjin-du:
     display_name: "Jin Jin Du"
-    role: grad-alumni
+    role: masters-alumni
 
 grad-qiaoqiao-ma:
     display_name: "Qiaoqiao Ma"
-    role: grad-alumni
+    role: masters-alumni
     image: /img/people/qiaoqiao-ma.png
 
 grad-sri-lakshmi-pakhala:
     display_name: "Sri Lakshmi Pakhala"
-    role: grad-alumni
+    role: masters-alumni
 
 grad-rebecca-jiang:
     display_name: "Rebecca Jiang"
-    role: grad-alumni
+    role: masters-alumni
 
 grad-siyun-wen:
     display_name: Siyun Wen
-    role: grad-alumni
+    role: masters-alumni
 
 grad-irene-choi:
     display_name: Won (Irene) Choi
-    role: grad-alumni
+    role: masters-alumni
     image: /img/people/irene-choi.png
 
 grad-aritra-dutta:
     display_name: Aritra Dutta
-    role: grad-alumni
+    role: masters-alumni
     webpage: "https://www.aritradutta04.com"
     image: /img/people/aritra-dutta.jpeg
 
 grad-mathilda-chen:
     display_name: "Mathilda Chen"
-    role: grad-alumni
+    role: masters-alumni
     image: /img/people/mathilda-chen.jpg
-
-#grad-alicia-ng:
-#    display_name: "Alicia Ng"
-#    role: grad-masters
-
-#grad-eunbea-ji:
-#    display_name: "Eunbea (Rosie) Ji"
-#    role: grad-masters
 
 grad-apolline-tardy:
     display_name: "Apolline Tardy"
-    role: grad-alumni
+    role: masters-alumni
     image: /img/people/apolline-tardy.png
+
+#Undergrads
+
+ugrad-simran-agarwal:
+    display_name: Simran Agarwal
+    role: ugrad
+
+ugrad-adrian-zhuang:
+    display_name: "Adrian Zhuang"
+    role: ugrad
+    webpage: "https://linkedin.com/in/adrian-zhuang-b48951233"
+    image: /img/people/adrian-zhuang.png
+
+ugrad-meera-rajendran:
+    display_name: "Meera Rajendran"
+    role: ugrad
+    webpage: https://www.linkedin.com/in/meera-r-945886205/
+    image: /img/people/meera-rajendran.jpg
+
 
 ugrad-justin-zou:
     display_name: "Justin Zou"
@@ -150,6 +175,7 @@ ugrad-emily-amspoker:
     display_name: "Emily Amspoker"
     role: ugrad-alumni
     image: /img/people/emily-amspoker.jpg
+    webpage: "https://emilyamspoker.tech/"
 
 ugrad-justin-hsieh:
     display_name: "Justin Hsieh"
@@ -262,21 +288,6 @@ ugrad-emily-yu:
     role: ugrad-alumni
     image: /img/people/emily-yu.jpg
 
-ugrad-christina-trice:
-    display_name: "Christina Trice"
-    role: ugrad-alumni
-    org: University of Maryland at College Park
-
-ugrad-juno-bartsch:
-    display_name: "Juno Bartsch"
-    role: ugrad-alumni
-    org: Haverford College
-
-ugrad-veronica-lin:
-    display_name: "Yanzi (Veronica) Lin"
-    role: ugrad-alumni
-    org: Wellesley College
-
 ugrad-chris-lee:
     display_name: Chris Lee
     role: ugrad-alumni
@@ -308,13 +319,6 @@ ugrad-jiachen-liu:
 ugrad-emma-enkhbold:
     display_name: Emma Enkhbold
     role: ugrad-alumni
-
-ugrad-zachary-miller:
-    display_name: Zachary Miller
-    role: ugrad-alumni
-    org: University of Pittsburgh
-    webpage: "https://www.reaact.pitt.edu/people/zachary-miller"
-    image: /img/people/zachary-miller.jpg
 
 ugrad-alex-zhu:
     display_name: Alex Zhu
@@ -356,12 +360,6 @@ ugrad-yiyao-wang:
     display_name: "Yiyao Wang"
     role: ugrad-alumni
 
-ugrad-mia-yancey:
-    display_name: "Mia Yancey"
-    role: ugrad-alumni
-    org: Clemson University
-    image: /img/people/mia-yancey.png
-
 ugrad-dylan-yang:
     display_name: "Dylan Yang"
     role: ugrad-alumni
@@ -378,11 +376,21 @@ ugrad-wunwan-boonsitanara:
     display_name: "Wunwan Boonsitanara"
     role: ugrad-alumni
 
-ugrad-meera-rajendran:
-    display_name: "Meera Rajendran"
-    role: ugrad
-    webpage: https://www.linkedin.com/in/meera-r-945886205/
-    image: /img/people/meera-rajendran.jpg
+
+
+ugrad-miriam-brody:
+    display_name: "Miriam Brody"
+    role: ugrad-alumni
+    org: Pomona College
+
+ugrad-christine-truong:
+    display_name: "Christine Truong"
+    role: ugrad-alumni
+    org: Carnegie Mellon University
+
+
+
+#REU Students
 
 ugrad-tammy-pham:
     display_name: "Tammy Pham"
@@ -391,53 +399,44 @@ ugrad-tammy-pham:
     webpage: https://linkedin.com/in/tam-tammy-pham
     image: /img/people/tammy-pham.jpg
 
-ugrad-miriam-brody:
-    display_name: "Miriam Brody"
-    role: ugrad-alumni
-    org: Pomona College
 
-ugrad-reagan-keeney:
-    display_name: "Reagan Keeney"
-    role: grad-phd
-    org: University of Massachusetts at Amherst
+ugrad-christina-trice:
+    display_name: "Christina Trice"
+    role: ugrad-alumni
+    org: University of Maryland at College Park
+
+ugrad-juno-bartsch:
+    display_name: "Juno Bartsch"
+    role: ugrad-alumni
+    org: Haverford College
+
+ugrad-veronica-lin:
+    display_name: "Yanzi (Veronica) Lin"
+    role: ugrad-alumni
+    org: Wellesley College
+
+
+ugrad-mia-yancey:
+    display_name: "Mia Yancey"
+    role: ugrad-alumni
+    org: Clemson University
+    image: /img/people/mia-yancey.png
+
+
+ugrad-zachary-miller:
+    display_name: Zachary Miller
+    role: ugrad-alumni
+    org: University of Pittsburgh
+    webpage: "https://www.reaact.pitt.edu/people/zachary-miller"
+    image: /img/people/zachary-miller.jpg
 
 ugrad-marie-shvakel:
     display_name: Marie Shvakel
     role: grad-alumni
     org: University of Massachusetts at Amherst
 
-ugrad-christine-truong:
-    display_name: "Christine Truong"
-    role: ugrad-alumni
-    org: Carnegie Mellon University
-
-ugrad-simran-agarwal:
-    display_name: Simran Agarwal
-    role: ugrad
-
-ugrad-adrian-zhuang:
-    display_name: "Adrian Zhuang"
-    role: ugrad
-    webpage: "https://linkedin.com/in/adrian-zhuang-b48951233"
-    image: /img/people/adrian-zhuang.png
-
-
-collaborator-naba-rizvi:
-    display_name: "Naba Rizvi"
-    webpage: "https://nrizvi.github.io"
-    role: collab
-    bio: PhD Student
-    org: UC San Diego
-    image: /img/people/naba-rizvi.jpg
-
-collaborator-mauli-pandey:
-    display_name: "Mauli Pandey"
-    webpage: "https://pandeymauli.github.io/research/index.html"
-    role: collab
-    bio: Software Engineer
-    org: Google
-    image: /img/people/mauli-pandey.jpg
-       
+#Collaborators
+      
 
 collaborator-karen-krainz-edison:
     display_name: "Karen Krainz Edison"
@@ -495,7 +494,7 @@ collaborator-paige-rodeghero:
    bio: Assistant Professor
    org: Clemson University
    webpage: "https://paigerodeghero.com"
-   image: "https://paigerodeghero.com/HTML/img/dr_rodeghero_sm.jpeg"
+   image: "/img/people/paige-rodeghero.jpg"
 
 collaborator-matthew-boyer:
    display_name: "D. Matthew Boyer"
@@ -523,7 +522,7 @@ collaborator-somayeh-asadi:
 
 collaborator-rick-kubina:
     display_name: Richard Kubina, Jr.
-    role: collab
+    role: collaba-alumni
     bio: Professor
     org: Penn State University
     webpage: "https://ed.psu.edu/directory/dr-richard-kubina-jr"
@@ -561,3 +560,18 @@ collaborator-madeline-endres:
     webpage: "https://people.cs.umass.edu/~mendres/"
     image: /img/people/madeline-endres.jpg
 
+collaborator-naba-rizvi:
+    display_name: "Dr. Naba Rizvi"
+    webpage: "https://nrizvi.github.io"
+    role: collab-alumni
+    bio: AI Research Scientist
+    org: Independent
+    image: /img/people/naba-rizvi.jpg
+
+collaborator-mauli-pandey:
+    display_name: "Dr. Mauli Pandey"
+    webpage: "https://pandeymauli.github.io/research/index.html"
+    role: collab-alumni
+    bio: Software Engineer
+    org: Google
+    image: /img/people/mauli-pandey.jpg
