@@ -7,7 +7,7 @@ description:
 people: 
    - grad-jiwoong-jang
    - ugrad-allison-xia
-   - ugrad-simran-agarwal
+   - ugrad-simran-agrawal
    
 layout: project
 no-link: false
